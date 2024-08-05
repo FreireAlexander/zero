@@ -6,7 +6,7 @@
 * tout le monde veut être beau  --  everybody wants to be beautiful6 et conj and
 * et les larmes se remirent à couler  --  and the tears started flowing again7 en adv,prep,pro in, by
 * je suis retournée en Espagne en septembre  --  I returned to Spain in September8 avoir nm,v to have
-* on était six donc tu peux pas avoir une conversation  --  there were six of us so you can't have  9 que adv,conj,pro that, which, who, whom
+* on était six donc tu peux pas avoir une conversation  --  there were six of us so you can't have a conversation9 que adv,conj,pro that, which, who, whom
 * c'est un soldat10 pour prep for, in order to
 * elle jouait pour gagner  --  she played to win11 dans prep in, into, from
 * je reviendrai dans dix minutes  --  I will return in 10 minutes12 ce det,pro this, that
@@ -14,7 +14,7 @@
 * allez voir s'il est blessé  --  go see if he is injured15 ne adv not
 * nous ne faisons pas du très bon travail  --  we are not doing very good work16 sur adj,prep on, upon
 * t'avais une chance sur un million  --  you had one chance in a million17 se pro oneself, himself, herself, itself, themselves
-* avec ce traité, le Japon se rapproche des Etats-Unis -- with this treaty, Japan brings itself  19 plus adv more, no more
+* avec ce traité, le Japon se rapproche des Etats-Unis -- with this treaty, Japan brings itself closer to the U19 plus adv more, no more
 * il est considérablement plus jeune que moi -- he's considerably younger than I am20 pouvoir nm,v can, to be able to
 * tu peux jouer de la guitare électrique -- you can play electric guitar21 par prep by
 * il s'y trouvait par hasard -- he found himself there by accident22 je pro I
@@ -63,8 +63,7 @@
 * sur le plan spirituel, le temps n'existe pas -- on the spiritual level, time does not exist66 très adv very
 * j'ai été bonne67 savoir nm,v to know
 * je ne savais plus quoi dire -- I didn't know what to say any more68 falloir v to take, require, need
-* il ne faut pas être raciste, point -- there's no need to be a racist, at all69 voir v to see
-* je tenais seulement à te voir pour te dire 70 quelque adv,adj,det some
+* il ne faut pas être raciste, point -- there's no need to be a racist, at all70 quelque adv,adj,det some
 * il restera pour quelques mois -- he will stay for a few months85 rendre v to render, return, yield, give up
 * je m'y rendis à 4 heures du matin -- I went there at 4 o'clock in the morning86 part nf share
 * je voudrais vous faire part de quelques données -- I want to share some data with you87 dernier nadj last
@@ -98,8 +97,7 @@
 * les trois chasseurs étaient en pleine lumière -- the three hunters were directly in the light116 penser nm,v to think
 * je pense que vous le connaissez bien -- I think you know him very well117 lieu nm place
 * je suis né dans un lieu public -- I was born in a public place118 partie nf part
-* il garde la majeure partie de cet argent -- he's keeping most of that money119 quand adv,conj when
-* tu aurais dû me tuer quand tu en as eu l'occasion -- you should have killed me when you had  7120 suivre v to follow
+* il garde la majeure partie de cet argent -- he's keeping most of that money7120 suivre v to follow
 * les autres, suivez-moi8121 contre adv,nm,prep against
 * je vois, tu es en colère contre moi -- I see you're angry with me7122 sous prep under
 * juste sous ton nez -- right under your nose8123 côté nm side
@@ -110,8 +108,7 @@
 * ces hallucinations ont une cause -- these hallucinations have a cause9128 politique nadj(f) politics; political
 * elle se spécialise en sciences politiques -- her specialty is political science7129 place nf room, space, square, place
 * je n'aimerais pas être à votre place -- I wouldn't want to be in your stead8130 seulement adv only
-* on va seulement rester quelques jours, ma chérie -- we're only going to stay a few days, my  8131 moi nm,pro me
-* tu sors avec moi ce soir6132 vie nf life
+* on va seulement rester quelques jours, ma chérie -- we're only going to stay a few days, my  6132 vie nf life
 * je suis sûr qu'elle est en vie -- I'm sure she's alive8133 connaître v to know
 * je le connaissais depuis vingt ans -- I had known him for twenty years8134 jusque adv,prep to, up to, until
 * ils me poursuivirent jusque dans la rue -- they followed me right into the street8135 croire v to believe
@@ -146,8 +143,7 @@
 * il est parti à présent -- he is gone for the moment164 plan adj,nm plan
 * achetez donc un plan de la ville -- so buy a map of the city165 décider v to decide
 * j'ai décidé d'écrire un roman -- I decided to write a novel167 ici adv here
-* moi je reste ici -- I'm going to stay here168 rien adv,nm,pro nothing
-* moi, je n'en sais rien -- I don't know anything about it6169 cours nfpl,nm(pl) course
+* moi je reste ici -- I'm going to stay here6169 cours nfpl,nm(pl) course
 * ils organisaient des petits cours et des séminaires -- they organized short courses and seminars8170 affaire nf business, matter
 * occupe-toi de tes affaires -- mind your own business8171 nom nm name
 * quel est son nom8172 famille nf family
@@ -191,8 +187,7 @@
 * j'accepte avec plaisir votre aimable invitation -- I accept with pleasure your kind invitation8211 agir v to act
 * c'est le moment d'agir -- now is the time to act7212 simple nadj(f) simple
 * on préférerait une réponse simple -- we would prefer a simple answer9213 plusieurs det,adj,pro several
-* il y a plusieurs formes d'humour -- there are several types of humor8214 votre det your
-* permettez-moi de vous parler dans votre langue -- allow me to speak to you in your language6215 important nadj important
+* il y a plusieurs formes d'humour -- there are several types of humor6215 important nadj important
 * c'est une question extrêmement importante -- it's an extremely important question7216 présent nadj present
 * il est trop tard pour dîner à présent -- it's too late to have supper now8217 mieux adji(pl),adv,nm better
 * je ne vous ai jamais mieux aimée -- I have never loved you more8218 poser v to put, pose, ask
@@ -204,8 +199,7 @@
 * dans des situations aussi difficiles, il faut trancher -- in such difficult situations, drastic  7224 offrir v to offer
 * alors, je vous offre la vie éternelle -- so I offer you eternal life8225 près adv,prep near, nearby, close by
 * il y a un siège vide près de vous -- there's an empty seat near you8226 choisir v to choose
-* c'est maintenant le moment de choisir -- now is the moment to choose227 national nadj national
-* il y avait l'intérêt national français -- the national interests of the French were involved7228 projet nm project
+* c'est maintenant le moment de choisir -- now is the moment to choose7228 projet nm project
 * le gouvernement ne financerait aucun projet touchant cette pratique -- the government would  6229 ni conj nor
 * je ne mange pas de viandes, ni de produits laitiers -- I don't eat meat or dairy products7230 puis adv then, so
 * elle a tenté de me tuer, puis elle m'a chassée -- she tried to kill me, then she chased me7231 toucher nm,v to touch
@@ -227,8 +221,7 @@
 * et celui-ci8248 façon nf way, manner
 * c'est une façon de voir, je suppose -- it's a way of looking at it, I guess7249 nombre nm number
 * il existe un nombre infini de réponses possibles -- there are an infinite number of possible  7250 perdre v to lose
-* vous avez perdu votre mère, mademoiselle8251 français nadj(pl) French
-* il faut leur parler en français -- you need to speak to them in French7252 expliquer v to explain
+* vous avez perdu votre mère, mademoiselle7252 expliquer v to explain
 * je vous en prie, expliquez-moi tout -- I beg you, explain everything to me8253 quatre det,nmi four
 * nous sommes quatre étudiants dans la maison -- we're four students sharing a house8254 compte nm account, count
 * cette ville a eu son compte de désastres -- this city has had its fair share of disasters8255 considérer v to consider
@@ -262,8 +255,7 @@
 * oui, oui, je sais6285 public nadj public, audience
 * je dois beaucoup au public -- I owe a lot to the public7286 humain nadj human
 * vous savez, on est humains, nous aussi -- you know, we are also human8287 souvent adv often
-* mais alors souvent en fin de soirée c'est la fête -- well, often the night ends with a party7288 cinq det,nm(pl) five
-* j'ai cinq minutes, je dois rencontrer quelqu'un à midi -- I have five minutes--I have to meet  289 système nm system
+* mais alors souvent en fin de soirée c'est la fête -- well, often the night ends with a party289 système nm system
 * j'ai décrit le système idéal -- I described the ideal system290 travailler v to work
 * nous devons travailler ensemble -- we have to work together291 jeu nm game
 * nous n'entrons pas dans le jeu de la politique -- we don't enter into the political fray292 vrai adv,nadj true
@@ -273,7 +265,7 @@
 * on vit dans une société où tout s'accélère -- we live in a society where everything is  296 difficile nadj(f) difficult
 * c'est difficile, monsieur, très difficile d'être un homme -- sir, it's difficult--very difficult--to be  297 quoi pro what
 * je ne sais pas de quoi vous parlez -- I don't know what you're talking about298 entreprise nf enterprise, business
-* j'ai moi-même l'esprit d'entreprise -- I myself have an entrepreneurial spirit-299 coup nm coup, blow, knock, stroke
+* j'ai moi-même l'esprit d'entreprise -- I myself have an entrepreneurial spirit299 coup nm coup, blow, knock, stroke
 * je lui donne juste un coup de main7300 or conj,nm gold; hence, thus
 * je ne suis pas chercheuse d'or -- I'm not a gold-digger8301 social nadj social
 * elle a une dimension sociale autant que biologique -- it has a social dimension as much as a  7302 assurer v to assure, insure
@@ -298,8 +290,7 @@
 * on se bat pour la liberté d'expression -- we're fighting for freedom of expression8321 assez adv enough
 * les journées ne sont plus assez longues -- the days are no longer long enough7322 risquer v to risk
 * un avocat ne viendra pas risquer sa vie -- a lawyer won't come here to risk his life8323 chacun pro each
-* ils ont chacun leurs intérêts, leurs passions -- they each have their own interests, passions8324 concerner v to concern
-* en ce qui me concerne, je voudrais te féliciter -- for my part, I would like to congratulate you325 maison nf house
+* ils ont chacun leurs intérêts, leurs passions -- they each have their own interests, passions325 maison nf house
 * elle est revenue habiter à la maison -- she came back to live at home327 apprendre v to learn
 * où as-tu appris le métier328 niveau nm level
 * ce niveau de collaboration ne sera pas maintenu -- this level of cooperation will not be  329 rencontrer v to meet
@@ -355,8 +346,7 @@
 * j'ai écrit la seconde partie du roman avant la première -- I wrote the second part of the novel  380 prochain nadj next
 * je vous offre 50381 particulier nadj particular, peculiar; person
 * j'ai un regard un peu particulier -- I have a somewhat peculiar look382 écrire v to write
-* c'est pour cela que j'écris -- that's why I'm writing383 position nf position
-* ils ne changent pas de position à ce sujet -- they aren't changing positions on this subject384 développement nm development
+* c'est pour cela que j'écris -- that's why I'm writing384 développement nm development
 * nous allons poursuivre le développement de nos activités -- we will pursue the development of  385 défendre v to defend, forbid
 * je pensais que je pouvais me défendre -- I thought I could defend myself386 chef nm head, leader, chief
 * vous surestimez le pouvoir des chefs d'Etat -- you overestimate the power of the heads of state387 économie nf economy
@@ -380,8 +370,7 @@
 * fixer des cordes afin de descendre en rappel -- set some ropes so that you can rappel down7405 peine nf effort, trouble
 * mes jambes ne me soutenaient qu'à peine -- my legs barely kept me standing7406 malgré prep despite, in spite of
 * nous serons bons amis malgré tout -- we will be good friends in spite of it all8407 période nm,nf period
-* j'étais amoureuse pendant une brève période de ma vie -- I was in love for a brief period of my  408 engager v to hire, involve
-* nous sommes engagés dans un travail de réflexion -- we're involved in some reflective  8409 réaliser v to realize, achieve
+* j'étais amoureuse pendant une brève période de ma vie -- I was in love for a brief period of my  8409 réaliser v to realize, achieve
 * je réaliserai ton rêve -- I will achieve your dream8410 parfois adv sometimes
 * il est parfois sage d'être un peu fou -- sometimes it's wise to be a little bit crazy8411 lors adv at the time of
 * je vous ai vu lors de votre dernière visite -- I saw you at the time of our last visit6412 sérieux nadj(pl) serious
@@ -427,8 +416,7 @@
 * certains sont impliqués dans des activités terroristes -- some of them are implicated in terrorist  7453 valeur nf value, worth
 * on a payé dix fois sa valeur -- we paid ten times what it was worth7454 marquer v to mark
 * cet épisode tragique marque la fin d'une aventure -- this tragic episode marks the end of an  8455 entier nadj whole, full
-* le monde entier est contre nous -- the whole world is against us8456 réponse nf answer, response
-* il donne une réponse claire à cette question -- he gives a clear answer to that question7457 aide nm,nf help, assistance
+* le monde entier est contre nous -- the whole world is against us7457 aide nm,nf help, assistance
 * j'ai besoin d'un peu d'aide -- I need a little help7458 principal nadj principal
 * trouver le rôle principal s'est révélé assez problématique -- finding the lead role turned out to  7459 élever v to grow, lift, raise
 * des murmures s'élevèrent autour de lui -- murmuring arose all around him7460 pourtant adv yet, nonetheless, nevertheless
@@ -488,8 +476,7 @@
 * plus tôt on partira, mieux ce sera -- the sooner we leave, the better it will be8514 lancer nm,v to throw, launch
 * je lance des mots au hasard -- I toss out words at random7515 limite nf limit
 * elle atteint les limites de ses possibilités -- she's reaching the limit of her possibilities8516 fonction nf function
-* vous êtes relevé de vos fonctions -- you are relieved of your functions517 emploi nm employment, work, use
-* leur emploi exige qu'ils fournissent leurs propres outils -- their work requires use of their own  6518 objectif adj,nm objective, aim, goal; lens
+* vous êtes relevé de vos fonctions -- you are relieved of your functions6518 objectif adj,nm objective, aim, goal; lens
 * je ne me suis jamais fixé d'objectifs précis -- I never set definite goals for myself7519 paraître v to appear
 * il paraît qu'il est à la bibliothèque maintenant -- it appears that he's at the library now7520 journal nm newspaper, paper
 * je vais acheter le journal pour ma mère -- I'm going to buy the newspaper for my mother7521 annoncer v to announce
@@ -512,8 +499,7 @@
 * t'as l'esprit vif, toi -- you've got a quick mind7539 domaine nm domain, field
 * là, nous sommes dans le domaine de l'expérience mystique -- there we enter the realm of  7540 diriger v to lead, direct
 * nous ne sommes dirigés que par nos désirs -- we are only led by our desires8541 noter v to note, notice
-* tu as tout noté542 nature nf nature
-* vous venez de découvrir votre vraie nature -- you have just discovered your true nature8543 régime nm regime
+* tu as tout noté8543 régime nm regime
 * Pravda, la voix de l'ancien régime communiste, ferme ses portes -- Pravda, the voice of the  6544 charger v to load, charge
 * le juge chargé du dossier refuse de convoquer le maire -- the judge assigned to the case  8545 court adj,adv,nm short
 * j'inscris mes objectifs long terme, court terme -- I wrote my short-term and long-term goals8546 parent nadj parent
@@ -562,8 +548,7 @@
 * le contrôleur indique qu'il est prêt -- the controller signals readiness6591 tuer v to kill
 * les fusils, ça tue -- rifles kill6592 technique nadj(f) technique, technics, technical
 * parlons un peu de votre technique -- let's talk a little about your technique7593 rapidement adv quickly, rapidly
-* ils ont passé rapidement dans l'histoire -- they disappeared quickly into history594 autour adv,nm around
-* je t'emmènerai autour du monde -- I'll take you around the world7595 réduire v to reduce
+* ils ont passé rapidement dans l'histoire -- they disappeared quickly into history7595 réduire v to reduce
 * tu réduis les aliments graisseux et le chocolat -- you reduce your intake of fatty foods and  9597 préférer v to prefer
 * préférez-vous que j'appelle la police8598 rue nf street
 * je me promenais dans les rues, seule -- I strolled alone down the streets7599 riche nadj(f) rich
@@ -573,8 +558,7 @@
 * la violence a fait six nouveaux morts -- the violence killed six people8603 siècle nm century
 * le XXe siècle a fait plus de martyrs chrétiens -- the 20th century created more Christian  7604 article nm article
 * vous m'avez convaincue de finir l'article -- you convinced me to finish the article6605 durer v to last
-* voilà quinze jours que ça dure -- this has lasted two weeks606 qualité nf quality
-* Renaud est quelqu'un d'une grande qualité humaine -- Renaud is someone with great human  7607 gauche nadj(f) left
+* voilà quinze jours que ça dure -- this has lasted two weeks7607 gauche nadj(f) left
 * elle écrit de gauche à droite -- she writes from left to right7608 solution nf solution
 * il n'existe pas de solution miracle -- there's no miracle solution7609 voie nf road, lane, route, track, way
 * il a toujours suivi sa voie, ton père -- your father has always followed his own way610 capable adj(f) able, capable
@@ -596,8 +580,7 @@
 * la porte extérieure s'ouvre -- the outer door opens8626 pied nm foot
 * tu n'iras pas assez vite à pied -- you won't get there as fast on foot7627 mission nf mission
 * si quelqu'un apprend notre mission, on échoue -- if anyone learns about our mission, we'll fail8628 débat nm debate
-* il voulait simplement contribuer au débat -- he simply wanted to contribute to the debate6629 fille nf girl, daughter
-* c'est une jeune fille de seize ans -- she's a young girl of sixteen years6630 répéter v to repeat
+* il voulait simplement contribuer au débat -- he simply wanted to contribute to the debate6630 répéter v to repeat
 * ce rêve se répète sans cesse -- this dream keeps repeating8631 texte nm text
 * je donne un texte et l'artiste intervient comme il veut -- I give a text and the artist adapts it as  7632 profiter v to take advantage, profit
 * je profitais de ces derniers jours de vraies vacances -- I took advantage of these last days of  8633 chambre nf bedroom, chamber
@@ -607,8 +590,7 @@
 * achetez vos billets à un revendeur agréé -- buy your tickets from an approved reseller637 justice nf justice
 * vous rendrez la justice de manière impartiale -- you will render justice in an impartial way7638 production nf production
 * ce serait une maison de production plutôt qu'une société -- it would be a factory rather than a  7639 ignorer v to ignore
-* j'ignorais pourquoi il jurait comme ça -- I didn't know why he was swearing like that8640 directeur nadj director
-* j'ai recu un mot du directeur -- I received a note from the director7641 santé nf health
+* j'ignorais pourquoi il jurait comme ça -- I didn't know why he was swearing like that7641 santé nf health
 * il est en bonne santé -- he's in good health6642 souffrir v to suffer
 * elle n'a pas souffert, elle s'est endormie -- she didn't suffer, she fell asleep8643 précis nadj(pl) precise
 * c'est à cet instant précis que je suis devenu adulte -- at that precise moment I became an adult8644 fixer v to fix, arrange, set
@@ -620,8 +602,7 @@
 * j'estime que cela est inadmissible -- I consider this to be inexcusable6650 endroit nm place, spot
 * on aime vraiment cet endroit -- we really like this place7651 comité nm committee
 * les délibérations des comités peuvent être enregistrées -- committee deliberations may be  5652 impossible nadj(f) impossible
-* je peux te rendre la vie impossible -- I can make life impossible for you653 preuve nf proof
-* vous nous donnez les preuves, et nous vous protégeons à vie -- you give us the proof, and  7654 véritable adj(f) real, true
+* je peux te rendre la vie impossible -- I can make life impossible for you7654 véritable adj(f) real, true
 * les véritables coupables restaient en liberté -- the true guilty parties remained free8655 amener v to bring
 * on pourrait les amener à changer leurs habitudes -- we could bring them to change their habits8656 viser v to aim
 * quel but visez-vous en thérapie bioénergétique7657 retirer v to remove, withdraw
@@ -657,8 +638,7 @@
 * ce témoin a affirmé avoir vu trois hommes -- this witness alleged to have seen three men6687 soumettre v to submit
 * de retour chez eux, elle l'a soumis à un ultime test -- back at their place, she put him to the  8688 financier nadj financial, financier
 * j'ai aussi travaillé dans le monde financier -- I also worked in the financial sector6689 processus nm(pl) process
-* j'ai été renseigné à chaque étape du processus -- I was kept informed at each stage of the  690 militaire nadj(f) military
-* la justice militaire me donne le droit à un avocat -- the military code of justice grants me the  6691 frais adj(pl),nm(pl) cool, fresh; fee, expense
+* j'ai été renseigné à chaque étape du processus -- I was kept informed at each stage of the  6691 frais adj(pl),nm(pl) cool, fresh; fee, expense
 * on me paie mes frais de déplacement -- my travel expenses are being covered8692 industrie nf industry
 * le tourisme est une industrie saisonnière -- tourism is a seasonal industry6693 apparaître v to appear
 * son nom apparaissait dans une autre liste -- her name appeared on another list7694 responsabilité nf responsibility
@@ -779,8 +759,7 @@
 * je veux que tu révèles tout ça au monde -- I want you to reveal everything to the world8811 couper v to cut
 * je me suis coupé8812 salle nf room
 * dans la salle, rien de plus qu'un murmure -- in the room there was nothing more than a  7813 pièce nf piece, part, component; room
-* ces gens vont vous mettre en pièces -- these people are going to tear you to pieces7814 équipe nf team
-* depuis mercredi nos équipes travaillent 24 h sur 24 h -- since Wednesday our teams have been  815 situer v to situate, locate
+* ces gens vont vous mettre en pièces -- these people are going to tear you to pieces815 situer v to situate, locate
 * je me situe quelque part entre les deux -- I find myself somewhere between the two816 souligner v to underline, stress
 * j'ai deux points à souligner -- I have two points to stress817 source nf source, spring
 * un bon journaliste ne révèle jamais ses sources -- a good journalist never reveals his sources818 respect nm respect
@@ -826,8 +805,7 @@
 * il avait juste besoin de composer mon numéro -- all he needed to do was dial my number8859 chemin nm path, way
 * le chemin pour rentrer me semblait interminable -- the road home seemed never-ending7860 zone nf zone, area
 * vous pouvez venir, j'ai sécurisé la zone -- you can come here -- I've secured the area7861 province nf province
-* l'armée française abandonne une de nos provinces -- the French army is abandoning one of  5862 élection nf election
-* l'élection présidentielle en Russie est prévue l'été prochain -- the Russian presidential elections  863 usage nm use, usage
+* l'armée française abandonne une de nos provinces -- the French army is abandoning one of  863 usage nm use, usage
 * il avait perdu l'usage de la mémoire immédiate -- he had lost the use of shortterm memory864 conflit nm conflict
 * ils se préparent à un éventuel conflit -- they're preparing for a possible conflict865 hors adv,prep except, outside
 * ils s'installèrent hors de la ville -- they moved in outside the city866 enquête nf inquiry, enquiry, investigation
@@ -861,8 +839,7 @@
 * je ne veux plus perdre contact avec toi -- I don't want to lose contact with you any more8895 conclure v to conclude
 * il vous reste une minute pour conclure -- you have one minute to conclude7896 fruit nm fruit
 * allez manger des fruits -- go eat fruit8897 ouvert adj open
-* je suis très ouvert à cette suggestion -- I'm very open to this suggestion8898 investissement nm investment
-* ce sont là des investissements importants -- those are important investments6899 insister v to insist
+* je suis très ouvert à cette suggestion -- I'm very open to this suggestion6899 insister v to insist
 * elle insistait pour m'accompagner, je refusai -- she insisted on accompanying me, I refused8900 avantage nm advantage
 * je désirais cet avantage pour mon fils -- I wanted this advantage for my son7901 garde nm,nf guard
 * on a fait venir le garde du corps -- they had the bodyguard come7902 historique nadj(f) historical
@@ -913,8 +890,7 @@
 * j'estime que leur réaction est naturelle -- I judge their reaction to be normal8948 disposition nf arrangement, disposition
 * elle tenait de notre père une disposition mélancolique -- she got a melancholy disposition from  6949 positif nadj positive
 * les réactions des téléspectateurs sont très positives -- the reactions of the viewers were very  7950 scientifique nadj(f) scientific
-* le nom scientifique de ma maladie ne l'intéressait pas -- he wasn't interested in the scientific  951 papier nm paper
-* ils veulent juste voir nos papiers -- they just wanted to see our papers7952 expression nf expression
+* le nom scientifique de ma maladie ne l'intéressait pas -- he wasn't interested in the scientific  7952 expression nf expression
 * cette expression a un sens extrêmement simple -- this expression has an extremely simple  8953 protection nf protection
 * on voudrait créer des aires de protection marines -- they wanted to create marine conservation  6954 indépendant nadj independent
 * il est indépendant financièrement, cultivé et cinglé -- he's financially independent, cultivated,  7955 carte nf card
@@ -948,8 +924,7 @@
 * rappelez-vous où vous étiez le 1er novembre7983 fonds nm(pl) funds
 * cela vient des fonds publics -- this comes from public funds6984 coûter v to cost
 * cette décision va coûter des milliards de dollars -- this decision will cost billions of dollars8985 reprise nf resumption, renewal; time
-* elle l'a prouvé à maintes reprises -- she proved it many times7986 presse nf press
-* la presse aime bien les grands titres -- the press really likes dramatic headlines987 rouge nadj(f) red
+* elle l'a prouvé à maintes reprises -- she proved it many times987 rouge nadj(f) red
 * le sang a séché, le rouge est devenu brun -- the blood dried, red turning to brown7988 majorité nf majority
 * la grande majorité n'en faisait rien -- the great majority didn't do anything about it7989 autoriser v to authorize
 * aucun fait n'autorise cette accusation de jalousie -- no fact licenses this accusation of jealousy7990 effectuer v to carry out, undergo
@@ -984,8 +959,7 @@
 * il est temps d'attaquer le mal à la racine -- it's time to attack evil at its roots71019 table nf table
 * la bouteille est là sur la table -- the bottle is there on the table71020 remonter v to go back up
 * notre dernière participation remontait au génocide rwandais -- our last participation goes back  81021 certes adv indeed, certainly, of course
-* le rapport ne fournit certes pas de solution miracle -- the report certainly doesn't provide the  71022 avril nm April
-* je suis né le 10 avril -- I was born on April 10th61023 autrement adv differently, something else, otherwise
+* le rapport ne fournit certes pas de solution miracle -- the report certainly doesn't provide the  61023 autrement adv differently, something else, otherwise
 * les Américains ont décidé d'agir autrement -- the Americans decided to act otherwise81024 ferme adj(f),adv,nf farm; firm
 * les parents doivent parfois se montrer fermes -- parents should sometimes stand firm71025 désormais adv from now on, henceforth
 * c'est désormais chose faite -- it's henceforth a done deal71026 lourd adj heavy
@@ -1020,8 +994,7 @@
 * les circonstances ne sont pas idéales -- the circumstances are less than ideal81055 témoin nm witness
 * j'ai des témoins71056 améliorer v to improve
 * la situation semblait s'améliorer -- the situation seemed to improve61057 administration nf administration
-* les administrations précédentes ont perdu toute autorité -- the preceding administrations have  71058 réfléchir v to reflect
-* j'ai réfléchi à la question -- I thought about the question71059 lumière nf light
+* les administrations précédentes ont perdu toute autorité -- the preceding administrations have  71059 lumière nf light
 * elle était juste heureuse de voir la lumière du jour -- she was happy to see daylight again61060 vert nadj green
 * il avait 23 ans, des yeux vert émeraude -- he was twenty-three years old, with emerald green  71061 apprécier v to appreciate
 * ils n'apprécient pas le spectacle -- they don't appreciate the show81062 combat nm fight, combat
@@ -1044,8 +1017,7 @@
 * tu te contenteras d'être le chauffeur -- you will be satisfied to be the driver81079 perte nf loss
 * c'était une perte de temps d'aller chez le médecin -- it was a waste of time to go see the doctor71080 libéral nadj liberal
 * nous avons maintenant un gouvernement libéral -- we now have a liberal government51081 citoyen nadj citizen
-* les gouvernements doivent représenter tous les citoyens -- governments must represent every  61082 citer v to quote
-* j'aimerais citer quatre paragraphes -- I would like to cite four paragraphs71083 influence nf influence
+* les gouvernements doivent représenter tous les citoyens -- governments must represent every  71083 influence nf influence
 * la France perdit de son influence -- France lost her influence71084 camp nm camp
 * on n'a jamais bombardé nos camps -- our camps were never bombed71085 établissement nm establishment, organization
 * l'établissement de systèmes de contrôle est important -- it's important to establish verification  61086 vendredi nm Friday
@@ -1080,8 +1052,7 @@
 * la psychanalyse est une science du vivant -- psychoanalysis is one of the life sciences71115 individu nm individual
 * ce type d'individu n'a rien à faire en prison -- this type of individual doesn't belong in prison71116 donnée nf fact, datum
 * tout en travaillant, il nota les données sur son carnet -- while working he jotted down data in  61117 demi adji,adv,nm half
-* rentrer déjeuner à midi et demi tous les jours -- come back for lunch at 1281118 combattre v to fight
-* nous avons combattu pour chaque détail -- we fought for every detail81119 violent nadj violent
+* rentrer déjeuner à midi et demi tous les jours -- come back for lunch at 1281119 violent nadj violent
 * évitez de recourir à des moyens trop violents -- avoid relying on overly violent means81120 comporter v to comprise, include; to behave
 * tâche de bien te comporter -- try to be well-behaved81121 suivant nadj,prep following
 * les 20 jours suivants, ils meurent de faim -- in the 20 days that followed, they starve to death61122 mériter v to deserve, merit
@@ -1095,8 +1066,7 @@
 * nombreuses furent les critiques contre ces initiatives -- numerous criticisms were leveled  1130 nucléaire adj(f) nuclear
 * une attaque nucléaire1131 industriel nadj industrial
 * les sociétés industrielles de ce temps mobilisent -- industrial societies of this time are  1132 vif nadj lively
-* les agents du mal étaient brûlés vifs -- the instigators of evil were burned alive1133 exact adj exact, correct
-* l'histoire est une science exacte -- history is an exact science81134 exception nf exception
+* les agents du mal étaient brûlés vifs -- the instigators of evil were burned alive81134 exception nf exception
 * vous ne pouvez pas faire une exception81135 doubler v to double, pass; to dub
 * il essaie de nous doubler -- he's trying to drive past us91136 février nm February
 * nous devons maintenant attendre jusqu'en février -- we must now wait until February61137 mode nm,nf mode, way, fashion
@@ -1107,8 +1077,7 @@
 * c'est un grand honneur de vous rencontrer -- it's a great honor to meet you61142 vaste adj(f) vast, immense
 * c'est très vaste comme sujet, mais c'est fascinant -- it's a huge subject, but it's fascinating81143 évoquer v to recall, evoke
 * on peut l'écouter des heures évoquer des souvenirs -- you could listen to her for hours evoking  71144 fonctionner v to function, work
-* le processus fonctionne, et fonctionne bien -- the process works, and works well71145 étape nf stage, step
-* je vais procéder étape par étape -- I'm going to proceed step by step71146 physique nadj(f) physical, physics
+* le processus fonctionne, et fonctionne bien -- the process works, and works well71146 physique nadj(f) physical, physics
 * j'aime aussi beaucoup l'activité physique -- I also really like physical activity1147 accuser v to accuse
 * de quoi nous accusez-vous61148 parfaitement adv perfectly
 * votre baladeur fonctionne parfaitement -- your Walkman works perfectly81149 méthode nf method, procedure
@@ -1119,8 +1088,7 @@
 * je menais une drôle d'existence -- I led a strange life71154 prétendre v to pretend
 * il prétend avoir un portable -- he claims to have a mobile phone71155 global adj global
 * l'opération peut être locale ou globale -- the operation can be local or global71156 dommage nm damage, harm; too bad
-* dommage que les choses aient mal tourné -- too bad things turned out as badly as they did81157 crédit nm credit
-* le gouvernement socialiste voulait mettre le crédit au service de l'économie -- the socialist  61158 tendance nf tendency, trend
+* dommage que les choses aient mal tourné -- too bad things turned out as badly as they did61158 tendance nf tendency, trend
 * les entreprises creés ont tendance à grossir -- the enterprises that were created tend to grow  71159 chaîne nf chain, channel
 * la chaîne a programmé ce divertissement le mardi soir -- the channel scheduled this  71160 relatif nadj relative
 * tout est relatif dans la vie -- everything is relative in life61161 note nf note, grade
@@ -1131,8 +1099,7 @@
 * vous avez entendu les deux versions de l'incident -- you have heard both versions of the  81166 règlement nm rule, regulation
 * il existe déjà des règlements dans ce secteur -- there is already regulation in this sector51167 couple nm,nf couple
 * le couple qui prie ensemble reste ensemble -- the couple that prays together stays together81168 mercredi nm Wednesday
-* je ne serai payée que mercredi -- I won't be paid until Wednesday51169 régional nadj regional
-* il existe toujours deux taux régionaux -- there have always been two regional rates61170 sinon conj otherwise, or else
+* je ne serai payée que mercredi -- I won't be paid until Wednesday61170 sinon conj otherwise, or else
 * mais n'anticipons pas, sinon nous n'arriverons jamais -- let's not get impatient or we'll never  71171 entreprendre v to begin, start, undertake
 * la dame blanche entreprend de monter l'escalier -- the white lady undertook to climb the stairs71173 étendre v to spread out, stretch out
 * je me suis étendue sur le sol de ma chambre -- I stretched out on the floor of my bedroom71174 sortie nf exit
@@ -1141,8 +1108,7 @@
 * je n'aurais qu'à décrire ce que je voyais -- all I had to do was describe what I saw61178 récent adj recent
 * quel est votre regard sur les récents déboires71179 télévision nf television
 * elle t'a vu à la télévision -- she saw you on the television61180 retraite nf retirement, pension
-* c'était un rocker à la retraite -- he's a retired rock-n-roll artist61181 art nm art
-* j'ai perdu l'art de convaincre -- I lost the art of convincing71182 frontière nf border
+* c'était un rocker à la retraite -- he's a retired rock-n-roll artist71182 frontière nf border
 * il essaie d'atteindre la frontière -- he's trying to reach the border71183 égal nadj equal
 * tout le monde ne sera pas égal devant la loi -- everyone will not be equal before the law71184 promesse nf promise
 * pensez-vous qu'elle va tenir sa promesse81185 entretenir v to maintain
@@ -1177,8 +1143,7 @@
 * les parlementaires ont été agacés par les réactions israéliennes -- the members of parliament  1215 conclusion nf conclusion
 * la conclusion du rapporteur semble raisonnable -- the conclusion of the reporter seems  1216 bleu adj,nm blue
 * le soleil a déchiré le voile bleu de la nuit -- the sun tore through the blue veil of the night1217 dehors adv,nm(pl),prep outside
-* dehors il fait froid -- it's cold outside1218 remercier v to thank
-* je vous remercie de m'avoir sauvé la vie -- thank you for saving my life1219 actif nadj active
+* dehors il fait froid -- it's cold outside1219 actif nadj active
 * l'Europe doit donc jouer un rôle actif -- Europe must therefore play an active role1220 réclamer v to ask for, call for; to claim
 * ils ont réclamé leur droit au sens critique -- they reserved the right to be critical1221 habitude nf habit
 * les gens fonctionnent beaucoup par habitude -- people operate a lot through habits1222 récemment adv recently
@@ -1201,8 +1166,7 @@
 * le fonds de l'assurance-emploi enregistre un surplus -- unemployment insurance funds have  1239 moderne nadj(f) modern
 * on va utiliser un système plus moderne -- we're going to use a more modern system1240 parc nm park
 * Disney va créer un parc à thèmes à Hong Kong -- Disney will create a theme park in Hong  1241 impôt nm tax
-* ils travaillent, ils payent des impôts -- they work, they pay taxes1242 sud adji,nm south
-* va faire une tentative au pôle sud -- go try to reach the south pole1243 efficace adj(f) efficient, effective
+* ils travaillent, ils payent des impôts -- they work, they pay taxes1243 efficace adj(f) efficient, effective
 * mon équipe est compacte et efficace -- my team is small and efficient1244 intéressant adj interesting
 * moi, je vous trouve intéressante -- me, I find you interesting1245 île nf island
 * c'est une île qui ne peut être trouvée -- it's an island that no one can find1246 cité nf city
@@ -1248,8 +1212,7 @@
 * nous espérons voir une stratégie intégrée -- we hope to see an integrated strategy1287 bateau nm boat, ship
 * un seul bateau de pêche a survécu à la tourmente -- only one fishing boat survived the tempest1288 printemps nm(pl) spring
 * c'est une splendide matinée de printemps -- it's a splendid spring morning1289 course nf race, shopping
-* je viens faire des courses, alors je me suis arrêtée ici -- I came shopping, and then I stopped  1290 exercice nm exercise
-* j'ai fait un exercice avec nos collègues de la presse -- I carried out an exercise with our  1292 visage nm face
+* je viens faire des courses, alors je me suis arrêtée ici -- I came shopping, and then I stopped  1292 visage nm face
 * ils avaient de beaux visages tranquilles et las -- they had beautiful, peaceful, weary faces1293 droite nf right
 * elle tourna la tête à droite -- she turned her head to the right1294 machine nf machine
 * il faut arrêter la machine avant de la réparer -- you must stop the machine before repairing it1295 village nm village
@@ -1285,8 +1248,7 @@
 * la réunion s'ouvrit le 17 juillet -- the meeting began on July 17th1327 ordinaire nadj(f) ordinary
 * je suis un type ordinaire, un vrai type normal -- I'm an ordinary guy, a really normal guy1328 candidat nm candidate
 * nous avons un candidat que nous soutenons -- we have a candidate who we support1329 rapprocher v to bring closer, get closer
-* j'ai voulu me rapprocher de toi -- I wanted to get closer to you1330 résistance nf resistance
-* sa résistance à la sonde mentale est considérable -- his resistance to the mental probe is  1331 fier adj,v to rely on; proud
+* j'ai voulu me rapprocher de toi -- I wanted to get closer to you1331 fier adj,v to rely on; proud
 * je suis très fière de mon héritage -- I'm very proud of my heritage1332 justement adv exactly, rightly, precisely
 * j'étais justement en train de faire du thé -- I was just making some tea1333 habitant nm inhabitant
 * les 2001334 formule nf formula, expression
@@ -1309,8 +1271,7 @@
 * premièrement, nous devons respecter la constitution -- first, we must respect the constitution1351 participation nf participation
 * comment qualifieriez-vous votre participation1352 évolution nf evolution
 * la rapidité de cette évolution n'est pas surprenante -- the swiftness of this evolution is not  1353 totalement adv totally
-* les tribunaux russes sont totalement engorgés -- the Russian court system is totally swamped1354 gérer v to manage
-* nous savons comment gérer l'éducation -- we know how to manage education1355 samedi nm Saturday
+* les tribunaux russes sont totalement engorgés -- the Russian court system is totally swamped1355 samedi nm Saturday
 * elle organisera une fête samedi -- she will organize a party on Sunday1356 informer v to inform
 * je t'informerai dès qu'ils l'auront repéré -- I'll inform you as soon as they locate him1357 fou adj,nm mad, crazy
 * tu es complètement fou -- you are completely crazy1358 attacher v to attach
@@ -1344,8 +1305,7 @@
 * dans la rue il faisait du vent -- it was windy in the street1388 technologie nf technology
 * en Chine, on utilise cette technologie depuis plus de 20 ans -- in China this technology has  1389 inquiéter v to worry, disturb
 * et ça, ça m'inquiète un petit peu -- and this, this disturbs me a little bit1390 dépit nm spite, heartache
-* j'ai ressenti un soulagement mêlé de dépit -- I felt relief mixed with spite1391 équilibre nm balance, equilibrium
-* j'aperçois une sorte d'équilibre qui peut durer longtemps -- I sense a kind of equilibrium that  1392 inquiet nadj worried, anxious
+* j'ai ressenti un soulagement mêlé de dépit -- I felt relief mixed with spite1392 inquiet nadj worried, anxious
 * tu as l'air inquiet -- you seem anxious1393 obstacle nm obstacle
 * j'ai surmonté tous les obstacles -- I overcame all the obstacles1394 réflexion nf reflection
 * elle le surprend en pleine réflexion -- she surprised him as he was deep in thought1395 uniquement adv only
@@ -1356,8 +1316,7 @@
 * il a traîné dans la station toute la journée -- he lingered in the station all day1400 supporter nm,v to support, endure
 * des fois, je ne supporte pas la vie quotidienne -- sometimes I can't stand daily life1401 privé nadj private
 * c'est une fête privée 1402 catégorie nf category
-* les autres catégories de l'entreprise sont concernées par cette démarche -- the other kinds of  1403 mine nf mine; appearance, look, mien
-* je haussai les épaules et fis mine de rire -- I shrugged my shoulders and feigned laughing1404 législatif nadj legislative
+* les autres catégories de l'entreprise sont concernées par cette démarche -- the other kinds of  1404 législatif nadj legislative
 * en 1978, la gauche échoue aux législatives -- in 1978, the left lost in the legislative elections1405 ah intj ah, oh
 * ah oui1406 propriétaire nm,nf owner
 * vous êtes le propriétaire des lieux1407 favoriser v to favor
@@ -1368,8 +1327,7 @@
 * l'incendie peut être d'origine criminelle -- the fire might have a criminal origin1412 photo nf photo
 * je peux voir la photo1413 précéder v to precede
 * la métaphysique ne doit pas précéder la physique, elle doit la suivre -- metaphysics shouldn't  1414 solide nadj(f) solid
-* nous avons une base solide sur laquelle bâtir -- we have a solid foundation on which to build1415 correspondre v to correspond
-* j'espère que nous correspondrons -- I hope we'll keep in touch1416 navire nm ship
+* nous avons une base solide sur laquelle bâtir -- we have a solid foundation on which to build1416 navire nm ship
 * je suis comme le capitaine d'un navire -- I'm like the captain of a ship1417 centaine nf hundred
 * la pétition est signée par plusieurs centaines de résidents -- the petition was signed by  1418 explication nf explanation
 * il doit y avoir une explication rationnelle -- there must be a rational explanation1419 transmettre v to forward, transmit
@@ -1436,8 +1394,7 @@
 * je rouvre une usine aux États-Unis -- I'm reopening a factory in the U1483 unir v to unite
 * le mariage devrait unir un homme et une femme -- marriage should unite one man and one  1484 rang nm rank, row
 * nous sommes assis au premier rang -- we sat on the first row1485 employé nm employee
-* les patrons veulent des employés qualifiés -- bosses want qualified employees1486 sommet nm summit
-* le sommet extraordinaire de Bruxelles n'était pas une fête -- the special summit at Brussels  1487 franchir v to get over
+* les patrons veulent des employés qualifiés -- bosses want qualified employees1487 franchir v to get over
 * les Huns ont franchi notre frontière nord -- the Huns broke through our northern border1488 évident adj obvious
 * ce n'était pas évident pour nous au début -- it wasn't obvious to us at first1489 comportement nm behavior
 * leur comportement agressif et violent ne change pas -- their aggressive and violent behavior is  1490 fête nf holiday, celebration
@@ -1448,8 +1405,7 @@
 * il parle aussi des réductions d'impôt -- he's also talking about tax reductions1495 culturel adj cultural
 * la vie culturelle est appauvrie, terne et stagnante -- cultural life is impoverished, dull, and  1496 coopération nf cooperation
 * nous ne bénéficions pas toujours d'une coopération sérieuse de leur part -- we don't always  1497 vertu nf virtue
-* la vertu et le vice, tout se confond -- virtue and vice, everything's getting mixed up1499 leader nm,nf leader
-* il est très difficile d'être un leader autochtone -- it's difficult to be a native leader1500 taille nf size, height
+* la vertu et le vice, tout se confond -- virtue and vice, everything's getting mixed up1500 taille nf size, height
 * je l'ai interrogée sur sa taille, sur son âge -- I asked her about her height, her age1501 contenu nadj contents
 * il faut réviser la réglementation quant au contenu francophone -- we must revise the regulation  1502 distance nf distance
 * la distance entre les villes est énorme -- the distance between cities is enormous1503 automne nm fall, autumn
@@ -1460,8 +1416,7 @@
 * les investissements en provenance de l'extérieur diminuent -- investments from abroad are  1508 réfugier v to take refuge
 * je m'étais réfugié dans une espèce d'esprit farceur -- I sought refuge in a farcical mindset1509 entourer v to surround
 * il courut à lui et l'entoura de ses bras -- he ran up to him and held him in his arms1510 juif nadj Jew, Jewish
-* la société se retourne contre les juifs -- society has turned against the Jews1511 considérable adj(f) considerable, significant
-* nous avons réalisé des progrès considérables -- we achieved considerable progess1512 conduite nf behavior, driving
+* la société se retourne contre les juifs -- society has turned against the Jews1512 conduite nf behavior, driving
 * certaines de mes conduites affectaient directement ma mère -- some of my behavior directly  1513 convention nf agreement, convention
 * la convention relative aux droits de l'enfant -- the convention on children's rights1514 communiquer v to communicate
 * mes fonctionnaires ont communiqué avec le ministère des finances -- my public servants  1515 prolonger v to prolong, extend
@@ -1539,8 +1494,7 @@
 * supprime ce paragraphe, cela ne changera rien -- delete this paragraph1591 guère adv hardly
 * mon travail n'avançait guère -- my job was hardly going anywhere1592 douter v to doubt
 * il n'avait jamais douté de la victoire -- he never doubted victory1593 ressentir v to feel
-* c'est alors qu'il ressentit, dans sa nuque, la douleur -- that's when he felt, on the back of his  1594 sexuel adj sexual
-* il y a des pervers sexuels partout -- there are sexual perverts everywhere1595 consulter v to consult
+* c'est alors qu'il ressentit, dans sa nuque, la douleur -- that's when he felt, on the back of his  1595 consulter v to consult
 * je n'ai pas été consulté -- I was not consulted1596 renseignement nm information
 * je cherche des renseignements sur la femme qui a été tuée -- I'm seeking information on the  1597 âgé adj old
 * ces hommes sont tous très âgés maintenant -- these men are all very old now1598 fonctionnement nm operation, functioning
@@ -1551,8 +1505,7 @@
 * l'économie mondiale a surpassé toutes les prévisions -- the global economy surpassed all  1603 quatrième det,nm,nf fourth
 * c'est mon quatrième séjour en France -- it's my fourth stay in France1604 fenêtre nf window
 * j'ai sauté par la fenêtre -- I jumped out the window1605 incapable nadj(f) incapable, incompetent
-* il est incapable de rentrer dans des détails concrets -- he's incapable of delving into concrete  1606 hésiter v to hesitate
-* n'hésitez pas à les appeler -- don't hesitate to call them1607 menace nf threat
+* il est incapable de rentrer dans des détails concrets -- he's incapable of delving into concrete  1607 menace nf threat
 * la menace terroriste est bien réelle -- the terrorist threat is very real1608 universel nadj universal
 * nous voulons un régime de santé universel -- we want a universal health care system1609 jeunesse nf youth
 * c'est la jeunesse que j'aime en eux -- it's their youthfulness that I like1610 voler v to steal, rob
@@ -1741,8 +1694,7 @@
 * nous allons faire grève demain -- we're going on strike tomorow1804 achat nm purchase
 * il est devenu responsable des achats -- he became the purchasing agent1805 mentionner v to mention
 * ces points ont déjà été mentionnés par le rapporteur -- these points were already mentioned by  1806 exécution nf execution, accomplishment
-* dans sa cellule, avant l'exécution, il en refuse les secours -- in his cell, before the execution, he  1807 distinguer v to distinguish
-* c'est cela qui nous distingue des orientaux -- that's what distinguishes us from the Orientals1808 exploiter v to exploit
+* dans sa cellule, avant l'exécution, il en refuse les secours -- in his cell, before the execution, he  1808 exploiter v to exploit
 * les Américains veulent exploiter notre pétrole -- the Americans want to exploit our oil1809 administratif nadj administrative
 * j'occupe actuellement un poste administratif -- I currently hold an administrative position1810 effectif nadj effective; size, workforce
 * Volkswagen supprime un quart de ses effectifs aux Etats-Unis -- Volkswagen is eliminating a  1811 communautaire adj(f) community, communal
@@ -1777,8 +1729,7 @@
 * tu pouvais t'inventer une meilleure excuse -- you could have come up with a better excuse1840 veille nf the day before, the eve of, night watch
 * on s'était fiancés la veille -- we were engaged the night before1841 content adj glad, pleased, happy
 * elles étaient très contentes d'y aller -- they were very happy to go there1842 rassurer v to reassure, calm down
-* le premier travail consiste à rassurer le gosse -- the first task is to calm the kid down1843 triste adj(f) sad
-* ouais, ouais, ne sois pas triste pour ça -- yeah, yeah, don't be sad about that1844 latin nadj Latin
+* le premier travail consiste à rassurer le gosse -- the first task is to calm the kid down1844 latin nadj Latin
 * l'anglais est encore plus latin que le français -- English is more Latin than French is1845 classique nadj(f) classic
 * j'ai étudié la musique classique -- I studied classical music1846 alliance nf alliance
 * nous reconnaissons nos obligations envers l'alliance -- we recognize our duty to the alliance1847 préoccupation nf worry, concern
@@ -1789,8 +1740,7 @@
 * quand cette femme a porté plainte, sa vie a été menacée -- when this woman filed a complaint,  1852 chaud adv,nadj warm, hot
 * il y a du café chaud dans le coffre sous la banquette -- there's hot coffee in the box under the  1853 taire v to keep quiet
 * oh, tais toi, tu n'as pas honte -- oh, shut up, you have no shame1854 émotion nf emotion, feeling
-* je fis de mon émotion un événement -- I turned my emotions into a spectacle1855 judiciaire adj(f) judiciary
-* nous devons préserver l'indépendance du pouvoir judiciaire -- we must preserve the judiciary's  1856 progresser v to progress
+* je fis de mon émotion un événement -- I turned my emotions into a spectacle1856 progresser v to progress
 * nous avons pas mal progressé à ce sujet -- we have progressed quite well on this topic1857 secours nm(pl) help, aid, assistance
 * une jeune fille appelait au secours -- a young girl was crying for help1858 confronter v to confront
 * elle est confrontée à des défis plus nombreux -- she was confronted by numerous challenges1859 strict adj strict, absolute
@@ -1815,14 +1765,12 @@
 * ce sera mon passeport pour la richesse, l'indépendance -- this will be my passport to riches,  1881 caisse nf till, cash desk
 * tu vas passer à la caisse1882 hasard nm chance, luck
 * on ne laissait rien au hasard -- nothing was left to chance1883 héros nm(pl) hero
-* un héros lui aurait sauvé la vie -- a hero would have saved her life1884 oreille nf ear
-* il s'introduisit un doigt dans l'oreille -- he stuck a finger in his ear1885 incident adj,nm incident
+* un héros lui aurait sauvé la vie -- a hero would have saved her life1885 incident adj,nm incident
 * fort heureusement, l'incident n'a pas fait de victime -- very fortunately, the incident was  1886 café nm coffee, café
 * Amélie est serveuse dans un café de Montmartre -- Amélie is a waitress in a Montmartre café1887 annonce nf announcement
 * il n'y a pas eu d'annonce à ce sujet -- there was no announcement concerning this1888 régulièrement adv regularly
 * elle a promis de venir régulièrement -- she promised to come regularly1889 pont nm bridge
-* il fallait jeter un pont entre l'Est et l'Ouest -- a bridge had to be built between the East and the  1890 foutre v,nm to fuck, shove off
-* va te faire foutre -- go fuck yourself1891 apercevoir v to see, notice
+* il fallait jeter un pont entre l'Est et l'Ouest -- a bridge had to be built between the East and the  1891 apercevoir v to see, notice
 * on aperçoit la sortie du tunnel -- you can see the exit of the tunnel1892 refléter v to reflect
 * la pièce d'eau reflétait la majestueuse façade d'un palais de pierre -- the ornamental pool  1893 bouger v to move, shift, budge
 * je reste là1894 foule nf crowd
@@ -1849,8 +1797,7 @@
 * j'ai pas de billet pour le match de demain -- I don't have a ticket for tomorrow's game1917 choc nm shock, clash
 * elle est en état de choc -- she's in a state of shock1918 proportion nf proportion
 * la fréquence des agressions atteint des proportions alarmantes -- the frequency of attacks is  1919 canal nm canal, channel
-* l'utilisation du canal sémaphore est suspendue -- the use of a semaphore channel is  1920 briser v to break
-* vous m'avez brisé le cœur -- you broke my heart1921 destruction nf destruction
+* l'utilisation du canal sémaphore est suspendue -- the use of a semaphore channel is  1921 destruction nf destruction
 * votre salut est sa destruction -- your salvation is his destruction1922 reculer v to move back, back up
 * ils ne reculent devant rien -- they don't back down from anything1923 critère nm criterion, criteria
 * selon quels critères ces traits sont-ils sélectionnés1924 gardien nadj guardian, keeper
@@ -1861,8 +1808,7 @@
 * j'aime mon job1929 transporter v to transport, carry
 * il transporta des milliers d'hommes ici -- it transported thousands of men here1930 brûler v to burn
 * je sais que Lucy brûlait d'une passion secrète pour vous -- I know Lucy was burning up with a  1931 manœuvre nm,nf manoeuvre
-* nous étions trois soldats à faire la manœuvre -- three of us soldiers participated in the  1932 monnaie nf currency, coin, change
-* aujourd'hui, nous avons une monnaie stable -- today we have a stable currency1933 transmission nf transmission
+* nous étions trois soldats à faire la manœuvre -- three of us soldiers participated in the  1933 transmission nf transmission
 * cette transmission est vraiment excellente -- this transmission is really excellent1934 quelconque adj(f) any, some
 * est-ce qu'on a un vase quelconque1935 courrier nm mail, post
 * il y a peut-être du courrier -- maybe there's mail1936 grandir v to grow, increase, expand
@@ -1897,8 +1843,7 @@
 * je n'ai pas pu inventer un tel souvenir -- I couldn't have invented such a memory1965 principalement adv principally, mainly, primarily
 * c'est sur les femmes principalement qu'elle a exercé une grande influence -- it's primarily with  1966 prudence nf prudence, care, caution
 * la prudence est la meilleure attitude à adopter -- caution is the best policy1967 stade nm stadium, stage
-* leurs recherches sont encore au stade préliminaire -- their research is still at the preliminary  1968 liaison nf liaison, connection
-* les liaisons ferroviaires ont été interrompues -- railroad connections were interrupted1969 consultation nf consultation
+* leurs recherches sont encore au stade préliminaire -- their research is still at the preliminary  1969 consultation nf consultation
 * après consultation confidentielle des professeurs -- after confidential consultation with the  1970 québécois nadj(pl) Quebecker, Quebecer, Québécois
 * il existe un marché pour le produit québécois en France -- there's a market for Quebecois  1971 ordonner v to ordain, organize, order
 * soldat, je vous ordonne d'avancer ces catapultes -- soldier, I order you to move these catapults  1972 bonjour nm hello
@@ -1942,8 +1887,7 @@
 * le sport est le meilleur remède physique et mental -- sports are the best physical and mental  2012 amélioration nf improvement
 * il faut prévoir que l'amélioration sera lente -- you have to expect the improvement to be slow2013 douleur nf pain
 * je comprends votre douleur et combien ceci est pénible -- I feel your pain and how difficult  2014 issue nf exit, outcome
-* nous fondons nos espoirs sur une issue positive au référendum -- our hopes rest on a positive  2015 généreux adj(pl) generous
-* il était généreux dans ses activités bénévoles -- he was generous in his charitable activities2016 absent nadj absent
+* nous fondons nos espoirs sur une issue positive au référendum -- our hopes rest on a positive  2016 absent nadj absent
 * il a été absent trois heures -- he was absent for three hours2017 talent nm talent
 * votre frère a beaucoup de talent -- your brother has a lot of talent2018 normalement adv normally
 * normalement, je suis un chien très gentil -- normally, I'm a very gentle dog2019 remarque nf remark
@@ -1954,8 +1898,7 @@
 * ce serait peut-être un éventuel projet pour vous -- that might be a possible project for you2024 blesser v to hurt
 * le premier avait été légèrement blessé, le second était sorti indemne -- the first was lightly  2025 orientation nf orientation, trend
 * je suis d'orientation homosexuelle -- I have a homosexual orientation2026 grec nadj Greek
-* il utilisait deux mots grecs -- he used two Greek words2027 secondaire nadj(f) secondary
-* quels types d'effets secondaires pourraient survenir2028 reporter nm,nf,v to report; to postpone
+* il utilisait deux mots grecs -- he used two Greek words2028 reporter nm,nf,v to report; to postpone
 * nous pourrions avoir à reporter certaines choses -- we might have to delay certain things2029 partisan nadj partisan, supporter
 * je ne suis pas un ardent partisan -- I'm not an ardent supporter2030 cinquième det,nm,nf fifth
 * il s'agissait de la cinquième médaille olympique de sa carrière -- it was the fifth Olympic  2031 distinction nf distinction
@@ -1988,8 +1931,7 @@
 * on accordera une très grande importance aux installations -- the installations will be very  2059 innocent nadj innocent
 * l'essentiel est qu'ils soient innocents -- the important thing is that they are innocent2060 fameux adj(pl) famous
 * voici l'un de nos plus fameux sadiques -- here is one of our most famous sadists2061 cultiver v to cultivate, grow
-* elle cultive le goût des petits plaisirs -- she cultivates a taste for simple pleasures2062 doux adv,nadj(pl) soft, sweet
-* le soleil était doux et chaud -- the sunshine was soft and hot2063 gouverner v to govern, rule, steer, helm
+* elle cultive le goût des petits plaisirs -- she cultivates a taste for simple pleasures2063 gouverner v to govern, rule, steer, helm
 * il a été élu pour gouverner -- he was elected to govern2064 jouir v to enjoy
 * elle jouit du respect et de l'admiration des gens -- she enjoys people's respect and admiration2065 parcourir v to cover, travel
 * il parcourut son courrier -- he went through his mail2066 bloc nm block
@@ -2011,8 +1953,7 @@
 * les événements pourraient donc s'accélérer -- the events could thus accelerate2083 littérature nf literature
 * je crois que la littérature africaine se porte bien -- I think that African literature is faring very  2084 résiderv to reside
 * c'est là que réside l'avenir de nos enfants -- that's where the future of our children lies2085 adolescent nm teenager, adolescent
-* nous étions alors de jeunes adolescents -- we were young teenagers at the time2086 dessiner v to draw, design
-* je ne sais pas dessiner2087 rompre v to break
+* nous étions alors de jeunes adolescents -- we were young teenagers at the time2087 rompre v to break
 * il a rompu avec les Frères musulmans -- he left the Muslim Brotherhood2088 agriculture nf agriculture
 * nous devons continuer de pratiquer une agriculture scientifique -- we must continue to  2089 gouverneur nm,nf governor
 * le rôle du nouveau gouverneur de l'île est si important -- the role of the island's new governor  2090 aventure nf adventure
@@ -2023,8 +1964,7 @@
 * ils extorquent chaque jour une prime de protection -- every day they extort protection money2095 résulter v to result
 * il en est résulté une tragédie humaine énorme -- an enormous human tragedy was the result2096 occupation nf occupation, pastime
 * lire et faire l'amour sont ses occupations2097 japonais nadj(pl) Japanese
-* l'économie japonaise ne se porte pas si mal -- the Japanese economy is faring rather well2098 emmener v to take
-* maman et papa ont dû l'emmener à l'hôpital -- mommy and daddy had to take him to the  2099 alimentaire adj(f) food
+* l'économie japonaise ne se porte pas si mal -- the Japanese economy is faring rather well2099 alimentaire adj(f) food
 * l'épidémie met en péril la sécurité alimentaire -- the epidemic is threatening food safety2100 lecteur nm reader
 * j'espère ne pas perdre des lecteurs -- I hope to not lose any readers2101 marin nadj sea, marine, sailor
 * la plupart des marins ont perdu leur emploi -- most sailors have lost their jobs2102 intermédiaire nadj(f) intermediate, intermediary
@@ -2094,8 +2034,7 @@
 * je ne trouve pas ça drôle -- I don't find that funny2167 plat adj,nm dish, flat
 * un plat avec cinq choix de dessert -- a plate with five dessert choices2168 maman nf mom
 * je suis ta maman et tu peux tout me dire -- I'm your mommy, and you can tell me everything2169 incertitude nf uncertainty
-* cette incertitude est pesante pour nous -- this uncertainty is unsettling for us2170 célébrer v to celebrate
-* nous venons célébrer le mariage de mon frère -- we just celebrated the marriage of my brother2171 dignité nf dignity
+* cette incertitude est pesante pour nous -- this uncertainty is unsettling for us2171 dignité nf dignity
 * il est toujours difficile de maintenir dignité et humour -- it's always hard to retain both dignity  2172 légitime nadj(f) legitimate
 * il l'aura l'autorité légitime de le faire -- he will have the legitimate authority to do so2173 philosophie nf philosophy
 * j'ai fait des études de philosophie -- I studied philosophy2174 verre nm glass
@@ -2129,8 +2068,7 @@
 * ce régime admirable est fondé sur l'honnêteté -- this admirable regime is founded on honesty2203 blessé nadj injured
 * les blessés ont été transportés dans sept hôpitaux -- the injured were transported to seven  2204 municipal adj municipal
 * les élus municipaux méritent notre respect -- elected municipal representatives deserve our  2205 salut intj,nm salute, hi, bye
-* salut, ma chérie -- hi, dear2206 songer v to dream
-* ne songez pas à quitter le pays -- don't even dream of leaving the country2207 enfance nf childhood
+* salut, ma chérie -- hi, dear2207 enfance nf childhood
 * depuis ma tendre enfance, je rêve de ce jour -- since early childhood I have been dreaming of  2209 merveilleux adj(pl) marvellous, wonderful
 * je vous souhaite une merveilleuse journée -- I wish you a wonderful day2210 sien nadj his, hers
 * la patrie vit les meilleurs des siens mourir en la défendant -- the motherland saw her best die  2211 commenter v to comment
@@ -2154,8 +2092,7 @@
 * le soir, j'écoutais les récits de Robert -- that evening, I listened to Robert's stories2230 revendication nf claim, demand
 * on parle souvent de revendications historiques -- we often speak of historical claims2231 incroyable nadj(f) incredible, unbelievable
 * moi, j'ai passé une nuit incroyable -- me, I had an incredible night2232 sondage nm poll
-* ce sondage représente la désinformation pure et simple -- this poll represents pure and simple  2233 mineur nadj minor; miner
-* les mineurs sont devenus fous -- the miners went crazy2234 composition nf composition, essay, dialling
+* ce sondage représente la désinformation pure et simple -- this poll represents pure and simple  2234 composition nf composition, essay, dialling
 * le roman se développe comme une composition musicale -- the novel unfolds like a musical  2235 débarrasser v to clear, get rid of
 * ils trouveront le moyen de se débarrasser de leur chef -- they'll find a way to get rid of their  2236 accusation nf accusation, indictment
 * il s'agit d'une accusation très grave -- it's a very grave accusation2237 invitation nf invitation
@@ -2249,8 +2186,7 @@
 * nous entamons notre descente -- we are beginning our descent2326 ménage nm housekeeping, housework
 * j'ai un peu de ménage à faire pour l'instant -- I have some housework I need to do now2327 purement adv purely
 * ma démarche est purement professionnelle -- my interest is purely professional2328 enjeu nm stake
-* c'est un enjeu de taille pour les femmes -- a great deal is at stake for women2329 passager nadj passenger, temporary
-* les 287 passagers ont probablement tous péri -- all the 287 passengers likely perished2330 transformation nf transformation, change
+* c'est un enjeu de taille pour les femmes -- a great deal is at stake for women2330 transformation nf transformation, change
 * la recherche scientifique est constamment en transformation -- scientific research is constantly  2331 calculer v to calculate
 * j'ai conçu un autre ordinateur pour calculer cela -- I designed another computer to calculate  2332 misère nf poverty, misery
 * il y a trop de misère et trop de crimes -- there's too much poverty and too much crime2333 légèrement adv lightly, slightly
@@ -2331,8 +2267,7 @@
 * il semble donc exister deux modalités de la vision -- there seem to be two ways that seeing  2413 paquet nm packet
 * c'était un paquet de cigarettes anglaises -- it was a pack of English cigarettes2414 fondation nf foundation
 * les fondations seront conçues après étude du sol -- the foundations will be formed after a soil  2415 terroriste nm,nf terrorist
-* le président condamne cet attentat terroriste -- the president condemned that terrorist attack2416 retrait nadj withdrawal
-* ces pays ont demandé un retrait volontaire des jouets -- these countries demanded a voluntary  2417 organe nm organ
+* le président condamne cet attentat terroriste -- the president condemned that terrorist attack2417 organe nm organ
 * un peu jeune pour du trafic d'organes, non2418 protocole nm etiquette, protocol
 * ce protocole a permis de découvrir de nouveaux antigènes -- this protocol enabled discovery  2419 apparition nf appearance, apparition
 * l'araignée a fait une nouvelle apparition -- the spider made a new appearance2420 gain nm gain
@@ -2366,8 +2301,7 @@
 * j'ai essayé de vous téléphoner chez vous -- I tried to telephone you at your place2449 serrer v to tighten, squeeze
 * elle serre les mains -- she clenches her fists2450 caractériser v to characterize
 * une époque ne se caractérise pas seulement par ses idées -- an era is not only characterized by  2451 préparation nf preparation
-* un document à ce sujet est en préparation -- a document on this subject is in preparation2452 inverse nadj(f) opposite, reverse
-* c'est l'inverse de ce que tu m'as raconté -- it's the exact opposite of what you told me2453 intituler v to entitle, call
+* un document à ce sujet est en préparation -- a document on this subject is in preparation2453 intituler v to entitle, call
 * la séquence s'intitulera 2454 possession nf possession, ownership
 * il était en possession de matériel d'intérêt -- he had targeted materials in his possession2455 rejet nm rejection
 * le Soudan réaffirme son rejet absolu des menaces -- the Sudan reiterates its categorial  2456 enseignant nadj teacher
@@ -2412,8 +2346,7 @@
 * je viens d'une circonscription qui repose sur l'industrie de la forêt -- I come from an electoral  2497 debout adv standing
 * je ne peux pas rester debout, sans rien faire -- I can't remain standing, doing nothing2498 influencer v to influence
 * je n'influence pas la politique -- I don't influence politics2499 recul nm backward movement, setback, slip
-* sur un an, le recul du chômage atteint 5 2500 mortel nadj mortal, deadly, lethal
-* nous ne sommes que mortels2501 flux nm(pl) flow
+* sur un an, le recul du chômage atteint 5 2501 flux nm(pl) flow
 * les flux mondiaux de migration se sont énormément développés -- worldwide migration flows  2502 horizon nm horizon, skyline
 * mes yeux parcoururent cet horizon désert -- my eyes surveyed this desert horizon2503 délivrer v to set free, rid, relieve
 * il était temps de se délivrer de ce poids -- it was time to get rid of that burden2504 subvention nf subsidy
@@ -2435,8 +2368,7 @@
 * vous serez convoquée au commissariat -- you will be summoned to the police office2521 prévention nf prevention, custody
 * nous faisons de la prévention auprès des jeunes enfants -- we're being preventive with our  2522 terrestre adj(f) land, earth
 * les frontières terrestres et les aéroports sont fermés -- the border crossings and airports are  2523 utilisateur nadj user
-* éditez le dictionnaire utilisateur pour le réduire à 102524 obligatoire adj(f) mandatory, compulsory
-* la quarantaine est obligatoire -- the forty-hour work week is mandatory2525 terminal nadj terminal
+* éditez le dictionnaire utilisateur pour le réduire à 102525 terminal nadj terminal
 * il demande une nouvelle retransmission au terminal sémaphore distant -- it requires a new  2526 choquer v to shock, offend, shake, disturb
 * personnellement, ces mesures ne me choquent pas -- personally, these measures don't shock  2527 primaire nadj(f) primary
 * un hôpital et une école primaire ont été détruits -- a hospital and an elementary school were  2528 vital adj vital
@@ -2458,8 +2390,7 @@
 * les témoignages étaient douloureux à entendre -- the testimony was sometimes painful to  2544 glisser v to slide, slip
 * il glisse sa main dans sa poche -- he slips his hand into his pocket2545 prêtre nm priest
 * le prêtre lève alors les bras au ciel -- then the priest raises his arms to the heavens2546 indication nf indication
-* suis mes indications à la lettre -- follow my instructions precisely2547 exagérer v to exaggerate, overdo
-* peut-être a-t-on tout simplement exagéré -- maybe we just exaggerated2548 décès nm(pl) death
+* suis mes indications à la lettre -- follow my instructions precisely2548 décès nm(pl) death
 * le suicide est une forme de décès -- suicide is a form of death2550 psychologique adj(f) psychological
 * son état était psychologique, pas physique -- his condition was psychological, not physical2551 réviser v to review, revise, overhaul
 * j'ai révisé votre plan de vol -- I revised your flight plan2552 profil nm profile, outline, contour
@@ -2489,7 +2420,7 @@
 * ce qui leur arrive ainsi est injuste -- what happens to them is unjust2576 plaider v to plead
 * il vous a envoyé plaider sa cause2577 récompenser v to reward, recompense
 * il récompensait mes efforts d'un compliment -- he rewarded my efforts with a compliment2578 suppression nf deletion, suppression
-* Lucent avait annoncé la suppression de 900 emplois -- Lucent announced a reduction of 900  jobs2579 coupure nf cut, cutting
+* Lucent avait annoncé la suppression de 900 emplois -- Lucent announced a reduction of 900  2579 coupure nf cut, cutting
 * il y a eu une coupure de courant -- there was a power blackout2580 glace nf ice, ice cream; mirror
 * j'aime manger des glaces -- I like eating ice cream cones2581 gare intj,nf station, railway station; beware
 * on retrouve le mec à la gare -- the guy was found at the train station2583 réparer v to repair, fix, correct, make up
@@ -2514,8 +2445,7 @@
 * j'ai beaucoup joué au football -- I played a lot of soccer2603 décevant adj disappointing
 * je trouvais très décevants les commentaires de nos journaux -- I was very disappointed by the  2604 législation nf legislation
 * une législation européenne serait libérale par définition -- a European law would be liberal by  2605 approprier v to adapt, appropriate, take over
-* dommage que les touristes anglais se l'approprient -- too bad the English tourists have taken it  2606 tactique nadj(f) tactics, tactical
-* les Allemands avaient changé de tactique -- the Germans changed tactics2607 thèse nf thesis, argument
+* dommage que les touristes anglais se l'approprient -- too bad the English tourists have taken it  2607 thèse nf thesis, argument
 * vous avez publié cette thèse2608 acceptable adj(f) acceptable, satisfactory
 * une personne doit avoir un revenu acceptable -- a person must have a decent income2609 surgir v to spring up
 * de Transylvanie surgit un chevalier roumain -- from Transylvania a Romanian knight suddenly  2610 prince nm prince
@@ -2573,12 +2503,11 @@
 * selon nous, c'est totalement inacceptable -- according to us, that's totally unacceptable2664 progressif adj progressive
 * nous avons effectivement un système progressif -- we do indeed have a progressive system2665 adhésion nf membership, support
 * l'adhésion des États candidats à l'Union européenne -- membership of the candidate states in  2666 portrait nm portrait, photograph
-* il nous dit que nous sommes les portraits de Dieu -- he told us we are portraits of God2667 détailler v to detail
-* j'ai reçu une lettre détaillée -- I received a detailed letter2668 valable adj(f) valid
+* il nous dit que nous sommes les portraits de Dieu -- he told us we are portraits of God2668 valable adj(f) valid
 * comme toute histoire valable, celle-ci concerne une fille -- like every worthwhile story, this  2669 coordination nf coordination
 * la coordination est considérée comme un problème de gestion -- coordination is considered a  2670 sportif nadj sports, athletic, competitive
 * il est jeune et sportif -- he's young and athletic2671 rose nadj(f),nf rose; pink
-* j'ai regardé le ciel tout rose derrière les arbres noirs -- I watched the pink sky with black trees in the foreground2672 quête nf quest, pursuit, collection
+* j'ai regardé le ciel tout rose derrière les arbres noirs -- I watched the pink sky with black trees  2672 quête nf quest, pursuit, collection
 * au lycée, la quête de popularité est une guerre -- in high school, the pursuit of popularity is  2673 compromis nm(pl) compromise, agreement
 * la vie est un compromis -- life is a compromise2674 investisseur nm investor
 * les investisseurs semblaient satisfaits par les résultats -- the investors seemed satisfied by the  2675 présumer v to presume, assume
@@ -2587,7 +2516,7 @@
 * les circonstances sont identiques -- the circumstances are identical2678 exploser v to explode, blow up
 * trois bombes ont successivement explosé mercredi matin -- three bombs exploded  2679 mensonge nm lie
 * j'en ai marre de vos mensonges -- I'm fed up with your lies2680 défaite nf defeat
-* malgré la défaite, la foule a ovationné l'équipe -- in spite of the defeat, the crowd gave the team a standing ovation2681 meurtrier nadj murderer, deadly, lethal
+* malgré la défaite, la foule a ovationné l'équipe -- in spite of the defeat, the crowd gave the  2681 meurtrier nadj murderer, deadly, lethal
 * je serai la meurtrière de mon mari -- I will be the murderer of my husband2682 rigoureux adj(pl) rigorous, harsh, strict
 * il est méthodique, rigoureux et, pire que tout, patient -- he is methodical, rigorous, and worst  2683 mentir v to lie
 * je t'ai menti2684 fréquent adj frequent
@@ -2596,8 +2525,7 @@
 * le Pakistan renvoie un ambassadeur en Inde -- Pakistan is sending its ambassador back to  2687 observateur nadj observer, observant
 * je suis un observateur clinique de la comédie humaine -- I'm a clinical observer of human  2688 revêtir v to take on, assume
 * on revêt les nouvelles lunettes de soleil -- you put on the new sunglasses2689 accessoire nm accessory
-* on ne vend ni ski ni accessoire -- we don't sell skis or accessories2690 acquisition nf acquisition, acquire, purchase
-* nous ne souhaitons ni fusion ni acquisition -- we don't want a merger or an acquisition2691 tournée nf tour, round
+* on ne vend ni ski ni accessoire -- we don't sell skis or accessories2691 tournée nf tour, round
 * c'est la dernière tournée2692 tranche nf slice, edge, section, bracket, slot
 * il tient une tranche serrée dans sa main -- he's holding a slice tightly in his hand2693 plage nf beach
 * il marchait pieds nus sur la plage -- he walked barefoot along the beach2694 inspecteur nm inspector
@@ -2608,8 +2536,7 @@
 * Henri et moi nous étions deux êtres distincts -- Henri and I were two separate beings2699 survie nf survival
 * je peux calculer vos chances de survie -- I can calculate your chances for survival2700 repousser v to push away, postpone
 * elle m'a repoussée, elle s'est jetée sur l'herbe -- she pushed me away, she threw herself on the  2701 adaptation nf adaptation
-* je fais surtout des adaptations d'auteurs étrangers -- I mostly do adaptations based on foreign  2702 plante nf plant
-* tu es une belle plante2703 nuire v to harm
+* je fais surtout des adaptations d'auteurs étrangers -- I mostly do adaptations based on foreign  2703 nuire v to harm
 * ils nuisent à la santé -- they are harmful to one's health2704 putain nf whore, bitch; stupid
 * putain mais qu'est-ce que tu fais2705 imagination nf imagination
 * mon imagination folle m'a trompée -- my foolish imagination deceived me2706 accusé nadj defendant
@@ -2620,8 +2547,7 @@
 * vous persistez à vouloir faire votre devoir2711 coalition nf coalition
 * un soldat de la coalition a été blessé dans l'opération -- a coalition soldier was injured during  2712 diplomatique nadj(f) diplomatic
 * nous préférons une solution diplomatique -- we prefer a diplomatic solution2713 excellence nf excellence
-* celle-ci sera un centre d'excellence -- this one will be a center of excellence2714 apparence nf appearance
-* les apparences sont trompeuses -- appearances are deceiving2715 oriental nadj Oriental
+* celle-ci sera un centre d'excellence -- this one will be a center of excellence2715 oriental nadj Oriental
 * il portait de somptueux vêtements orientaux -- he wore sumptuous Oriental clothing2716 écriture nf writing
 * l'écriture, c'est un besoin pour moi -- writing is a need that I have2717 parcours nm(pl) journey, course, route
 * je suis en bout de parcours -- I'm at the end of a journey2718 républicain nadj republican
@@ -2653,7 +2579,7 @@
 * j'étais assis dans ce fauteuil -- I was sitting in this armchair2744 couloir nm corridor, aisle
 * j'emprunte le couloir -- I'm taking the hallway2745 enthousiasme nm enthusiasm, enthusiastically
 * l'enthousiasme fit place à une méfiance extrême -- enthusiasm gave way to extreme distrust2747 éthique nadj(f) ethical, ethics
-* le clonage représente évidemment plusieurs problèmes éthiques -- cloning obviously poses several ethical problems2748 révision nf review, revision, overhaul
+* le clonage représente évidemment plusieurs problèmes éthiques -- cloning obviously poses  2748 révision nf review, revision, overhaul
 * il y aura une révision périodique du régime -- there will be periodic regime change2749 pointer nm,v to mark off, clock in, clock out, aim
 * pourquoi cette femme pointe-t-elle une arme sur toi2750 assassiner v to murder, assassinate
 * il mourut assassiné -- he was assassinated2751 optimiste nadj(f) optimistic
@@ -2668,14 +2594,13 @@
 * les pêcheurs sont les hommes de la liberté -- fishermen are men of freedom 2760 amateur nm,nf amateur
 * j'ai eu des parents amateurs de théâtre -- I have parents who love the theater2761 regret nm regret, regretfully
 * aux vacances, nous nous séparions sans regret -- on vacation, we separated without regrets2762 accroissement nm increase
-* nous sommes tous atterrés par l'accroissement du chômage -- we're all crushed by the growth in unemployment2763 trimestre nm quarter; three months
+* nous sommes tous atterrés par l'accroissement du chômage -- we're all crushed by the growth  2763 trimestre nm quarter; three months
 * les perspectives sont bonnes pour le troisième trimestre -- the outlook is good for the third  2764 onde nf wave
 * c'est comme une onde de choc -- it's like a shock wave2765 spatial adj spatial, space
 * la Station spatiale internationale n'a aucun rôle militaire -- the International Space Station has  2766 brut adv,nadj raw, crude
 * la surface totale brute de ce bâtiment est de 2152767 éventuellement adv possibly
 * des sanctions seront éventuellement prises -- sanctions will eventually be taken2768 vache adj(f),nf cow
-* dans d'immenses champs des vaches mâchaient -- cows munched in immense fields2769 gris nadj(pl) grey
-* c'était une poule grise -- it was a grey hen2770 aise nadj(f) comfort, joy, pleasure, ease
+* dans d'immenses champs des vaches mâchaient -- cows munched in immense fields2770 aise nadj(f) comfort, joy, pleasure, ease
 * je suis mal à l'aise dehors -- I am uneasy in the outdoors2771 agression nf agression
 * les agressions contre les femmes ont augmenté -- aggression against women has increased2772 loisir nm leisure
 * je dresse des chevaux dans mes loisirs -- I groom horses in my leisure time2773 chaleur nf heat
@@ -2686,8 +2611,7 @@
 * il y a des mystères que je ne peux résoudre -- there are mysteries that I can't resolve2778 quasi adv,nm almost, nearly
 * on entretient un lien quasi mystique avec son pays natal -- we maintain an almost mystical  2779 description nf description
 * nous commençons par une brève description de mon père -- we start with a brief description  2780 serbe nadj(f) Serbian
-* un vieil homme serbe a été tué par balle -- an old Serbian man was shot dead2781 biologique adj(f) biological, nature
-* les études sur les effets biologiques des radiations sont restées rares -- studies on biological  2782 universitaire nadj(f) university, academic
+* un vieil homme serbe a été tué par balle -- an old Serbian man was shot dead2782 universitaire nadj(f) university, academic
 * j'étais occupée à des travaux de recherches universitaires -- I was busy doing university  2783 emparer v to seize, grab, snatch
 * il n'était pas possible de s'emparer de la clef -- it wasn't possible to grab the key2784 dent nf tooth
 * elle repart en grinçant des dents -- she walks away gnashing her teeth2785 neutre adj(f) neutral
@@ -2709,8 +2633,7 @@
 * la perte de mémoire est presque automatique -- loss of memory is almost automatic2801 accrocher v to hang up, hang on, put up
 * les manifestants ont accroché une pancarte -- the demonstrators put up a poster2802 pain nm bread
 * ça grille le pain pendant qu'on le tranche -- it toasts the bread while it's being sliced2803 plateau nm plateau, tray, set, stage
-* il repose la bouteille vide sur le plateau -- he sets the empty bottle on the tray2804 répétition nf repetition, rehearsal
-* on recommence les répétitions ce soir -- tonight we resume the rehearsals2805 diminution nf reduction, decreasing
+* il repose la bouteille vide sur le plateau -- he sets the empty bottle on the tray2805 diminution nf reduction, decreasing
 * les stocks de poissons sont en diminution, voire en disparition -- fishery resources are  2806 collection nf collection, series
 * j'ai une collection des lettres inédites de Freud -- I have a collection of Freud's unpublished  2807 gène nm gene
 * ils collent des gènes ensemble, je crois -- they splice genes, I think2808 permanence nf permanence, duty, service
@@ -2722,7 +2645,7 @@
 * nous ne sommes pas strictement obligés -- we aren't strictly obligated2814 violation nf violation, transgression
 * cela constitue une violation de sa probation -- that constitutes a violation of his probation2816 lycée nm high school
 * il est professeur de philosophie au lycée -- he's a high school philosophy teacher2817 con nadj stupid
-* on va le finir, ce con -- we're gonna take out that asshole2818 combinaison nf combination
+* on va le finir, ce con -- we're gonna take out that a2818 combinaison nf combination
 * il était le seul à avoir la combinaison et tu l'as tué -- he alone knew the combination, and you  2819 injustice nf injustice, unfairness
 * l'inégalité nourrit l'injustice, le soupçon et les préjugés -- inequality feeds injustice, suspicion,  2820 reportage nm report, reporting
 * selon le reportage, son intervention aurait été annulée -- according to the report his talk was  2822 soucier v to care about, show concern for
@@ -2788,8 +2711,7 @@
 * les déchets de l'aire métropolitaine continueront de s'accumuler -- the trash from the  2883 siéger v to sit
 * moi-même et mon gouvernement siégions en Algérie -- I and my government reign in Algeria2885 temporaire adj(f) temporary
 * la célébrité de tout président est temporaire -- the fame of every president is fleeting2886 affiche nf poster, public notice, bill
-* j'ai mon nom sur des affiches -- I have my name on posters2887 massacre nm massacre, slaughter
-* ce massacre n'a pas été revendiqué -- nobody has claimed responsibility for this massacre2888 actualité nf current events, news
+* j'ai mon nom sur des affiches -- I have my name on posters2888 actualité nf current events, news
 * le présent, l'actualité ne m'intéressent pas -- the present, current events don't interest me2889 redevenir v to become again
 * je vais redevenir célibataire -- I'm going to become single again2890 crucial adj crucial, critical
 * nous sommes à un moment crucial de notre histoire -- we are at a critical moment of our  2891 marine adj,nf marine, navy
@@ -2824,8 +2746,7 @@
 * nous sommes nés pour vaincre -- we were born to conquer2920 pétition nf petition
 * je voudrais déposer cette pétition -- I would like to submit this petition2921 renseigner v to give information, get information
 * renseigne-moi, je veux savoir -- tell me, I want to know2922 ordonnance nf prescription, organisation, edict, ruling
-* le policier ignore si l'ordonnance est encore en vigueur -- the policeman doesn't know whether  2923 aile nf wing, sail, blade
-* l'oiseau battra des ailes jusqu'à sa mort -- the bird will beat its wings until its death2924 température nf temperature
+* le policier ignore si l'ordonnance est encore en vigueur -- the policeman doesn't know whether  2924 température nf temperature
 * il faut que j'aille prendre ma température -- I have to go take my temperature2925 coupe nf bowl, dish, cut
 * votre coupe jamais ne sera vide -- your bowl will never be empty2926 rayon nm ray, beam, radius; department, section, shelf
 * un rayon de lune traversait la chambre -- a moonbeam shone across the room2928 promener v to take for a walk, go for a walk
@@ -2839,8 +2760,7 @@
 * la production de charbon est en train de chuter -- coal production is falling off2936 passionner v to fascinate, grip
 * je suis passionné de mon travail -- I'm passionate about my work2937 colline nf hill
 * arrivée au sommet de la colline, elle s'arrêta -- reaching the top of the hill, she stopped2938 poésie nf poetry
-* la poésie est souvent dite de façon ennuyeuse -- poetry is often recited boringly2939 généraliser v to generalize
-* il faudrait généraliser ce type d'initiatives -- we would need to generalize this type of initiative2940 transaction nf transaction
+* la poésie est souvent dite de façon ennuyeuse -- poetry is often recited boringly2940 transaction nf transaction
 * le montant de la transaction n'a pas été dévoilé -- the amount of the transaction was not  2941 extrémité nf end, extremity
 * l'un d'eux attachait l'autre extrémité -- one of them grasped the other end2942 pénal adj penal
 * il permet la clôture des procédures pénales -- it allows for termination of criminal proceedings2943 économiste nm,nf economist
@@ -2908,8 +2828,7 @@
 * cela aurait pour effet de relancer l'économie -- this will produce an economic recovery3009 luxe nm luxury
 * la colère est un luxe que je ne peux me permettre -- anger is a luxury I can't afford3010 nomination nf appointment, nomination
 * j'ai été très heureux d'apprendre votre nomination -- I was very pleased to hear of your  3011 poster nm,v poster; to post, mail
-* nous y avons posté une vigie -- we set up a stakeout3012 bar nm bar
-* nous buvons un café dans le bar voisin -- we're drinking a coffee in the local bar3013 tantôt adv this afternoon, sometimes
+* nous y avons posté une vigie -- we set up a stakeout3013 tantôt adv this afternoon, sometimes
 * des voix tantôt masculines, tantôt féminines -- voices that were sometimes masculine,  3014 publiquement adv publicly
 * il ne voulait pas critiquer publiquement ses supérieurs -- he didn't want to publicly criticize his  3015 gueule nf mouth, trap
 * ferme ta grande gueule3016 comparable adj(f) comparable
@@ -2953,8 +2872,7 @@
 * vous avez impressionné nos collègues -- you impressed our colleagues3056 accessible adj(f) accessible, approachable
 * je pense être un patron plutôt accessible -- I think I'm a rather approachable boss3057 résidence nf residence, block of flats
 * bienvenue dans ma résidence d'été -- welcome to my summer residence3058 dedans adv,nm(pl),prep inside, indoors
-* je suis tombé dedans quand j'étais petit -- I fell into it when I was young3059 agressif nadj aggressive
-* elle est devenue agressive, hostile -- she has become aggressive, hostile3060 loger v to put up, accommodate, stay, find accommodation
+* je suis tombé dedans quand j'étais petit -- I fell into it when I was young3060 loger v to put up, accommodate, stay, find accommodation
 * nous savons maintenant où ils se logent -- we know where they live now3061 ouvertement adv openly, overtly
 * il a parlé assez ouvertement -- he spoke openly enough3062 patience nf patience
 * leur patience avait des limites -- their patience had limits3063 stimuler v to stimulate
@@ -2965,8 +2883,7 @@
 * en fait, mes ancêtres viennent d'lnde -- in fact, my ancestors come from India3068 intensité nf intensity
 * ils relayent la vérité avec la même intensité que les mensonges -- they convey the truth as  3069 grandeur nf size, greatness
 * la grandeur dominait dans ce cercle d'élite -- the grandeur dominated in this circle of the elite3070 entraînement nm training, coaching, drive
-* bien joué, ton entraînement est terminé -- well done--your training is complete3071 déborder v to overflow, boil over, go out, go over
-* je suis débordé au travail -- I'm swamped at work3072 conducteur nadj driver, operator, conductor
+* bien joué, ton entraînement est terminé -- well done--your training is complete3072 conducteur nadj driver, operator, conductor
 * le conducteur a été tué sur le coup -- the driver was killed instantly3073 pollution nf pollution
 * il y a des risques importants de pollution -- there's a significant risk of pollution3074 islamique adj(f) Islamic
 * nous incarnons un mouvement islamique révolutionnaire -- we embody a revolutionary  3075 attribution nf awarding, allocation, assignment, attribution
@@ -2977,8 +2894,7 @@
 * nous vivons à l'ère de la mondialisation -- we live in an era of globalization3080 rappel nm reminder, summary, recall, return, remember
 * je suis un rappel d'un moment douloureux de ta vie -- I'm a reminder of a painful time of your  3081 fabricant nm manufacturer
 * rien ne semble effrayer le fabricant français -- nothing seems to scare the French manufacturer3082 utilité nf use, usefulness,
-* tu ne m'es d'aucune utilité -- you are of no use to me3083 ethnique nadj(f) ethnic
-* les luttes politiques entre divers groupes ethniques -- the political struggle between different  3084 annexe adj(f),nf annex, appendix, related issue
+* tu ne m'es d'aucune utilité -- you are of no use to me3084 annexe adj(f),nf annex, appendix, related issue
 * le texte du rapport figure à l'annexe -- the text of the report is located in the appendix3085 interlocuteur nm speaker
 * vous aimez voir les yeux de vos interlocuteurs -- you like to see the eyes of the people you  3086 spécifier v to specify
 * je ne peux pas spécifier l'année -- I can't specify the year3087 souple adj(f) supple, agile, soft, floppy, flexible
@@ -2999,8 +2915,7 @@
 * je n'embrasse pas des inconnus3103 échéance nf expiration date, date of payment, deadline
 * le contrat arrive à échéance dans quelques mois -- the contract expires in a few months3104 surplus nm(pl) surplus
 * s'il y a des surplus, je les prends -- if there's a surplus, I'll take them3105 prématuré nadj premature
-* c'est le résultat de la mort prématurée de ta mère -- it results from the premature death of your  3106 décrocher v to take down, take off, pick up, lift
-* je me suis enfin décidé à décrocher le téléphone -- I finally decided to pick up the telephone  3107 rembourser v to reimburse, pay back, pay off, repay
+* c'est le résultat de la mort prématurée de ta mère -- it results from the premature death of your  3107 rembourser v to reimburse, pay back, pay off, repay
 * la compagnie d'assurance me remboursera de toute manière -- anyway, the insurance company  3108 adhérer v to stick to, support, join, be a member of
 * quoi que vous fassiez, adhérez à l'Union -- whatever you do, join the Union3109 défenseur nm,nf defender
 * mon fusil et moi sommes les défenseurs de ma patrie -- my rifle and I are the defenders of my  3110 citation nf quote, quotation, citation
@@ -3019,9 +2934,8 @@
 * je crois que c'est la sixième saison de cette émission -- I think it's this program's sixth season3125 enveloppe nf envelope
 * elle a fait tomber une enveloppe dans ma chambre -- she dropped an envelope in my room3126 extension nf extension, stretching, expansion
 * on craint surtout l'extension de la guerre civile -- our worst fear is an extension of the civil war3127 effondrer v to collapse, cave in, fall down
-* notre pays était complètement effondré3128 apprêter v to prepare, get ready, dress
-* nous nous apprêtons à adopter un nouveau système -- we're preparing to adopt a new system3129 anonyme adj(f) anonymous
-* on parle d'une adresse anonyme sur l'Internet -- people talk about an anonymous Internet  3130 cibler v to target
+* notre pays était complètement effondré -- our country had suffered a complete meltdown3128 apprêter v to prepare, get ready, dress
+* nous nous apprêtons à adopter un nouveau système -- we're preparing to adopt a new system3130 cibler v to target
 * elles pourront frapper des groupes ciblés -- they can strike the targeted groups3131 additionnel adj additional
 * elle n'a pas besoin de fonds additionnels -- she has no need of additional funds3132 excès nm(pl) excess, surplus, abuse
 * il y a eu un excès de confiance chez certains -- some of them had an excess of confidence3133 douzaine nf dozen
@@ -3032,8 +2946,7 @@
 * il faut obtenir un vaste consensus -- we need a vast consensus3138 chat nm cat; chat
 * je crois qu'un chat a dormi sur ma tête hier -- I think a cat slept on my head yesterday3139 avertissement nm warning
 * tu m'avais déjà donné un avertissement -- you had already warned me3140 excédent nm surplus
-* nous savons que l'excédent va cesser d'augmenter -- we know that the surplus will stop  3141 mondialisation nf internationalisation, globalisation
-* je suis pour une mondialisation avec des règles éthiques -- I'm all for globalization with  3142 conventionnel nadj conventional
+* nous savons que l'excédent va cesser d'augmenter -- we know that the surplus will stop  3142 conventionnel nadj conventional
 * ces missiles étaient équipés de têtes conventionnelles -- these missiles were equipped with  3143 unanimité nf unanimity
 * leur décision devra être prise à l'unanimité -- their decision will have to be made unanimously3144 romain adj Roman
 * elle heurta le soldat romain sur le casque -- she slugged the Roman soldier on the helmet3145 inégalité nf difference, uneveness, inequality
@@ -3137,8 +3050,7 @@
 * il y avait des projections sur un écran -- there were projections on a screen3245 treize det,nmi thirteen
 * onze cafards 3246 antenne nf antenna
 * il y a une antenne sur le toit3247 tarif nm price, rate, fare, tariff
-* le contenu du message dépendra du tarif -- the content of the message will depend on the rate3248 remplacement nm replacement, standing in
-* il vous en donne une nouvelle en remplacement de votre carte perdue -- he's giving you a new  3249 devise nf currency, motto, slogan
+* le contenu du message dépendra du tarif -- the content of the message will depend on the rate3249 devise nf currency, motto, slogan
 * le dollar progressait également face aux autres devises -- the dollar also gained over the other  3250 optimisme nm optimism
 * selon moi, son optimisme ne se justifie pas -- in my opinion, his optimism isn't justified3251 chanteur nadj singer
 * elle réalisait son rêve3252 décret nm decree
@@ -3149,8 +3061,7 @@
 * nous avons assez durement vécu, en tant que nation -- we have lived quite a harsh life, as a  3257 applaudir v to clap, applaud
 * il voudrait que nous applaudissions son discours -- he wanted us to applaud his talk3258 sucre nm sugar
 * le marché du sucre se présentait comme une gourmandise -- the sugar market resembled a  3259 prioritaire nadj(f) priority, having priority, having right of way
-* je te fais un passe prioritaire -- I'll give you a special-entry pass3260 chair nf flesh
-* elle était bien en chair -- she looked overweight3261 exécutif nadj executive
+* je te fais un passe prioritaire -- I'll give you a special-entry pass3261 exécutif nadj executive
 * la responsabilité du pouvoir exécutif doit être entière -- the responsibility of executive power  3262 compétent adj competent
 * je ne suis pas compétent pour ce type d'opération -- I'm not competent for this type of  3263 sable adji,nm sand
 * j'ai dormi dans le sable des dunes -- I slept in the sand dunes3264 corruption nf corruption
@@ -3172,8 +3083,7 @@
 * vos photographies m'ont fait passer des heures inoubliables -- I have spent several  3280 exclusion nf exclusion, expulsion
 * la pauvreté et l'exclusion sociale sont en grave augmentation -- poverty and social exclusion  3281 préconiser v to recommend, advocate
 * je préconise la souplesse plutôt que la ligne dure -- I recommend flexibility rather than a hard  3282 tribune nf platform, forum, gallery
-* divers orateurs défilèrent à la tribune -- various speakers filed up to the speaker's gallery3283 bénéficiaire nadj(f) beneficiary
-* nous demeurons les bénéficiaires des sacrifices -- we are the beneficiaries of sacrifices3284 historien nm historian
+* divers orateurs défilèrent à la tribune -- various speakers filed up to the speaker's gallery3284 historien nm historian
 * les historiens en débattront pendant longtemps -- historians will debate this for a long time3285 seize det,nmi sixteen
 * elle y chante depuis l'âge de seize ans -- she has been singing there since she was sixteen years  3286 tentation nf temptation
 * des tentations lui revinrent à l'esprit -- temptations came into his mind3287 gloire nf glory, fame
@@ -3184,8 +3094,7 @@
 * vous êtes fier de ce succès continu3292 chantier nm construction site, roadworks
 * je vais louer du matériel de chantier -- I will rent construction-site equipment3293 croyance nf belief
 * votre salut viendra de votre croyance en la vérité -- your salvation will come from your belief  3294 ennui nm boredom, trouble, worry
-* je parie que vous mourez d'ennui -- I bet you're dying of boredom3295 pompier adj,nm fireman, firefighter
-* les pompiers restaient pessimistes -- the firemen remained pessimistic3296 inspection nf inspection
+* je parie que vous mourez d'ennui -- I bet you're dying of boredom3296 inspection nf inspection
 * je dois faire une inspection sur place très minutieuse -- I have to do a very thorough on-site  3297 convertir v to convert
 * vous vous êtes converti, vous avez changé d'idée -- you have converted, you have new ideas3298 pouce nm thumb, inch
 * votre père lève les pouces pour dire bravo -- your father is giving a 3299 clientèle nf customers, clientele
@@ -3318,8 +3227,7 @@
 * je préfère publier mon journal intime -- I prefer to publish my personal diary3435 cerner v to surround, encircle, delimit
 * vous m'aidez à cerner mes problèmes -- you help me put a finger on my problems3436 hostilité nf hostility, hostilities
 * je ressens beaucoup d'hostilité de ta part -- I sense much hostility on your part3437 manche nm,nf handle, sleeve
-* je l'essuie avec ma manche -- I wipe it with my sleeve3438 mathématique nadj(f) mathematical; mathematics
-* les mathématiques vous aident à vous connaître -- math helps you know yourself3439 gamin nm kid
+* je l'essuie avec ma manche -- I wipe it with my sleeve3439 gamin nm kid
 * tu penses que le gamin a menti3440 induire v to infer, induce, result in , lead to
 * je ne veux pas vous induire en erreur - I don't want to lead you into error3441 temple nm temple
 * j'ai trouvé le temple -- I found the temple3443 arbitrage nm refereeing, umpiring, arbitration
@@ -3333,7 +3241,7 @@
 * votre gazon semble superbe -- your lawn looks magnificent3451 gonfler v to inflate, blow up, swell
 * cette pensée lui gonfla le cœur -- this thought swelled his heart3452 missile nm missile
 * seize missiles air-sol ont visé cette base -- sixteen surface-to-air missles were aimed at this  3453 minuit nm midnight
-* elles se sont endormies peu après minuit3454 composante nf component
+* elles se sont endormies peu après minuit -- they fell asleep shortly after midnight-3454 composante nf component
 * certaines composantes de son environnement sont plastiques -- certain components of his  3455 veuf nadj surviving spouse
 * vous savez, moi-même je suis veuf -- you know, I'm a widower myself3456 comparaître v to appear
 * certains témoins ont accepté de comparaître devant nous -- some witnesses agreed to appear  3457 trame nf weft, framework; tram
@@ -3345,8 +3253,7 @@
 * j'aime beaucoup le format court -- I really like the short format3463 hiérarchie nf hierarchy
 * il était vite monté dans la hiérarchie -- he quickly climbed the hierarchy3464 estimation nf appraisal, valuation, assessment, estimate
 * c'est une estimation prudente -- it's a safe guess3465 mutation nf transfer, transformation, mutation
-* il peut identifier une mutation chez les patients affectés -- he can identify a mutation in the  3466 imminent adj imminent, impending
-* j'annonçai mon retrait imminent -- I announced my pending retirement3467 héroïne nf heroine
+* il peut identifier une mutation chez les patients affectés -- he can identify a mutation in the  3467 héroïne nf heroine
 * l'héroïne avait mon âge, dix-huit ans -- the heroine was my age, eighteen years3468 esclave nadj(f) slave
 * l'esclave se révolte contre le maître -- the slave rebels against the master3469 marocain nadj Moroccan
 * les chèvres marocaines ont quasiment tout mangé -- the Moroccan goats ate practically  3470 menu adv,nadj menu, slender, slim, minor
@@ -3561,8 +3468,7 @@
 * une grande nouveauté récente est la venue des nouveaux dépanneurs -- a big recent trend is  3692 ballon nm ball
 * l'usage de tout autre ballon est strictement interdit -- use of any other ball is strictly forbidden3693 abstenir v to abstain, refrain
 * vous feriez mieux de vous abstenir -- you would do better to abstain3694 affrontement nm clash, confrontation
-* il y a eu des affrontements dans les rues -- there were confrontations in the streets3695 expulser v to expel, evict, deport, throw out
-* les policiers l'expulseront légalement de la propriété -- the police will evict her legally from  3696 resserrer v to tighten up, strengthen
+* il y a eu des affrontements dans les rues -- there were confrontations in the streets3696 resserrer v to tighten up, strengthen
 * nous devrions nous voir plus souvent, resserrer nos relations -- we should see each other more  3697 activement adv actively
 * les évadés sont activement recherchés -- the fugitives are being actively sought3698 décor nm scenery, décor, set
 * on a déjà changé le décor en milieu d'année -- we already changed the decor mid-year3699 compassion nf compassion
@@ -3573,8 +3479,7 @@
 * je suis contente d'arriver à la trentaine -- I'm happy to have reached thirty years old3704 détresse nf distress
 * nous répondons à votre signal de détresse -- we are responding to your distress signal3705 escalier nm stairs, staircase
 * il montait et descendait l'escalier -- he climbed up and down the stairs3706 barrage nm barrier, obstruction, dam, roadblock
-* de nombreux barrages ont été érigés par la police -- many barricades were erected by the  3707 néant nm nothingness
-* vous réduisez ma vie à néant -- you're reducing my life to oblivion3708 support nm support, stand
+* de nombreux barrages ont été érigés par la police -- many barricades were erected by the  3708 support nm support, stand
 * reste là3710 encaisser v to receive, collect, cash
 * j'encaisserai son chèque dans la matinée -- I will cash her check in the morning3711 déduire v to deduct, deduce, infer, figure out
 * j'en ai déduit de façon certaine que je l'avais perdue -- I figured out for sure that I had lost it3712 baptiser v to name, christen, baptize
@@ -3669,8 +3574,7 @@
 * le budget est serré cette année -- the budget is tight this year3811 enquêter v to investigate, hold inquiry, conduct a survey
 * tu veux vraiment enquêter sur lui3813 allonger v to lengthen, extend, stretch out
 * je m'allongeai sur mon lit -- I stretched out on my bed3814 chauffeur nm driver, chauffeur
-* le chauffeur du véhicule n'a pas été identifié -- the driver of the vehicle has not been identified3815 prospérité nf prosperity
-* la société japonaise a connu une grande prospérité -- Japanese society enjoyed great prosperity3816 ambiguïté nf ambiguity
+* le chauffeur du véhicule n'a pas été identifié -- the driver of the vehicle has not been identified3816 ambiguïté nf ambiguity
 * cette affirmation cache encore bien des ambiguïtés -- this assertion still hides several  3817 bourgeois nadj(pl) middle class
 * ses parents vivaient comme des bourgeois -- her parents lived like middle-class people3818 touristique adj(f) holiday, tourist
 * elle évite les lieux touristiques -- she avoids tourist traps3819 obscur adj dark, vague, obscure
@@ -3704,8 +3608,7 @@
 * quelles mesures de conservation peuvent être prises -- what conservation measures can be  3848 transit nm transit
 * le fric est en transit3849 organisateur nadj organiser, organising
 * il a été l'un des principaux organisateurs -- he was one of the principal organizers3850 galerie nf gallery
-* il y a toute une galerie de personnages -- there's a whole range of personalities3851 aménagement nm development, planning, fitting, adjustment
-* alors, on a fait des aménagements -- so, we made some adjustments3852 manifestant nm protester, demonstrator
+* il y a toute une galerie de personnages -- there's a whole range of personalities3852 manifestant nm protester, demonstrator
 * les manifestants ont fait monter la pression -- the protesters increased the pressure3853 char nm tank
 * j'entends vaguement les chars qui s'approchent -- I barely hear the tanks as they approach3854 criminalité nf crime
 * la prévention de la criminalité devrait être notre objectif final -- crime prevention should be  3855 masquer v to mask, conceal, put on a mask
@@ -3783,8 +3686,7 @@
 * une chaleur subite l'envahissait -- a sudden heat overcame him3931 diplomate nadj(f),nm diplomat, diplomatic
 * ils sont accompagnés par un diplomate russe -- they're accompanied by a Russian diplomat3932 joue nf cheek
 * des larmes coulaient sur mes joues, sans arrêt -- tears rolled down my cheeks continually3933 essuyer v to wipe, dry, mop, dust
-* essuie tes larmes -- wipe away your tears3934 exporter v to export
-* le Canada exporte un certain nombre de produits alimentaires -- Canada exports some food  3935 étaler v to spread, display, apply
+* essuie tes larmes -- wipe away your tears3935 étaler v to spread, display, apply
 * j'ai étalé mon manteau sur votre lit -- I spread out my coat on your bed3936 reconduire v to renew, drive back
 * je te reconduis à l'aéroport -- I'll drive you back to the airport3937 handicap nm handicap
 * mon handicap est très sérieux -- my handicap is very serious3938 bonsoir intj,nm good evening
@@ -3807,8 +3709,7 @@
 * le gouvernement doit alléger le fardeau des entreprises -- the government must lighten the  3955 héritier nm heir
 * il n'a pas d'héritiers directs -- he has no direct heirs3956 apport nm supply, contribution
 * cite-moi un seul apport positif de la technologie -- name me one positive contribution from  3957 remboursement nm reimbursement
-* s'ils veulent un remboursement, je le prendrais sur ta paye -- if they want reimbursement, I'll  3958 échelon nm rung, step, grade, echelon
-* j'ai tenté de grimper encore un échelon, pour lui échapper -- I tried to crawl up one more rung  3959 fondre v to melt, merge
+* s'ils veulent un remboursement, je le prendrais sur ta paye -- if they want reimbursement, I'll  3959 fondre v to melt, merge
 * quel pudding exquis, il fond dans la bouche -- what exquisite pudding--it melts in the mouth3960 occurrence nf instance, case, occurrence
 * nous pourrions compter sur les doigts de la main les occurrences du mot -- we could count on  3961 authentique adj(f) genuine, authentic
 * mon objectif premier 3962 attentivement adv attentively, carefully, closely
@@ -3825,8 +3726,7 @@
 * j'essaie de rendre le gens les moins productifs que possible -- I try to make people the least  3976 groupement nm grouping, group, categorization
 * j'étais dans toutes sortes de groupements -- I was in all kinds of groups3977 modernisation nf modernization
 * il va nous amener à poursuivre notre modernisation -- he's going to push us to pursue our  3978 déploiement nm deployment, spreading, unfurling, display
-* il s'agirait du premier déploiement de missiles sol-air -- it would be the first deployment of  3979 impuissant nadj powerless, helpless
-* la justice est complètement impuissante -- justice is completely powerless3980 restauration nf restoration; catering
+* il s'agirait du premier déploiement de missiles sol-air -- it would be the first deployment of  3980 restauration nf restoration; catering
 * la restauration emploie beaucoup de jeunes -- catering employs many young people3981 haïr v to detest, hate, abhor
 * j'ai toujours haï la campagne -- I always hated the countryside3982 marée nf tide
 * c'est à marée haute qu'il faut venir -- you must come at high tide3983 souscrire v to subscribe
@@ -3847,8 +3747,7 @@
 * la police des mœurs harcèle encore les jeunes -- the vice squad is still harassing the youth4000 leadership nm leadership
 * nous devons faire preuve de leadership -- we must show leadership4001 cahier nm notebook
 * d'accord, fermez les cahiers4002 portable adj(f),nm portable, wearable; cell phone
-* j'achèterai un portable et je t'appellerai -- I'll buy a cell phone and I'll call you4003 précoce adj(f) early, precocious
-* nous favorisons la détection précoce et la prévention -- we support early detection and  4004 qualification nf qualification
+* j'achèterai un portable et je t'appellerai -- I'll buy a cell phone and I'll call you4004 qualification nf qualification
 * on n'a pas passé les qualifications -- we didn't pass the qualifying exam4005 insulte nf insult
 * je m'enfuis, poursuivie par ses insultes -- I took off, pursued by her insults4006 planer v to glide, soar
 * un grand oiseau planait -- a large bird was soaring4007 stage nm internship, training course
@@ -3903,8 +3802,7 @@
 * le gouvernement fédéral a réduit sensiblement sa contribution -- the federal government  4058 léguer v to bequeath, hand down, pass on
 * il aurait dû me léguer la maison tout entière -- he should have bequeathed me the whole house4059 prélever v to impose, levy, withdraw, remove
 * l'argent est prélevé sur les chèques toutes les semaines -- money is debited against the checks  4060 noyer nm,v walnut; to drown, flood, blur, water down
-* tous trois ont péri noyés, prisonniers du véhicule -- all three of them drowned, trapped in the  4061 abbé nm abbot, priest
-* je vous présente M4062 détecter v to detect
+* tous trois ont péri noyés, prisonniers du véhicule -- all three of them drowned, trapped in the  4062 détecter v to detect
 * les fuites sont difficiles à détecter -- leaks are difficult to detect4063 capter v to pick up, capture, tap
 * puis ses yeux captèrent un mouvement -- then her eyes caught a motion4064 sceptique nadj(f) sceptical, sceptic
 * le monde scientifique reste en majorité sceptique -- the scientific world for the most part  4065 vôtre nadj(f) yours
@@ -3971,8 +3869,7 @@
 * les paroles avaient pris le relais de ses larmes -- words took over from his tears4128 opposant nadj opponent, opposing
 * mais les opposants sont sceptiques -- but the opponents are sceptical4129 aval nm downstream, downhill
 * on parle des avantages en aval -- we're talking about downstream benefits4130 rubrique nf column, heading, rubric
-* l'émission propose également de nombreuses rubriques -- the broadcast also offers several  4131 préfet nm prefect
-* le préfet ne fera rien pour nous -- the police commissioner will do nothing for us4132 provocation nf provocation
+* l'émission propose également de nombreuses rubriques -- the broadcast also offers several  4132 provocation nf provocation
 * c'est de la provocation indue, non souhaitable et injustifiée -- it's undeserved, undesirable and  4133 sommaire nadj(f) summary, brief, cursory
 * l'examen est certes assez sommaire -- the examination is certainly rather cursory4134 versant nm hillside, mountainside
 * voilà succinctement résumé un versant de sa nature -- there, briefly put, is one side of his  4135 réticence nf reluctance, hesitation
@@ -3982,8 +3879,7 @@
 * je regarde un peu mes timbres -- I'm just looking over my stamps4139 découper v to carve, cut,
 * je ne découpe pas les articles -- I don't cut out articles4140 distributeur nadj distributor, machine
 * les distributeurs quittaient la salle en courant -- the distributors ran out of the room4142 dégrader v to degrade, debase, damage, erode
-* la situation se dégrade depuis 1984 -- the situation has been worsening since 19844143 colonial nadj colonial
-* la Suisse n'a pas de passé colonial -- Switzerland has no colonial history4144 pourparler nm talk, discussion, negotiation
+* la situation se dégrade depuis 1984 -- the situation has been worsening since 19844144 pourparler nm talk, discussion, negotiation
 * on va bientôt participer à ces pourparlers -- we'll soon participate in these discussions4145 incidence nf effect, incidence
 * les catastrophes ont des incidences économiques importantes -- catastrophes cause important  4146 béton nm concrete
 * les murs étaient en béton -- the walls were of cement4147 fiable adj(f) reliable, trustworthy
@@ -4016,8 +3912,7 @@
 * les moutons commençaient à se désintéresser de moi -- the sheep stopped showing interest in  4176 indifférence nf indifference
 * je dois subir avec indifférence les conséquences -- I must suffer the consequences  4177 omettre v to leave out, miss out, omit
 * je n'y omettrai rien -- I won't leave anything out4178 typique nadj(f),nf typical
-* c'est typique4179 concurrentiel adj competitive
-* divers éléments nous procurent cet avantage concurrentiel -- many factors bring us this  4180 désarmement nm disarmament, disarming
+* c'est typique4180 désarmement nm disarmament, disarming
 * j'ai besoin des codes de désarmement -- I need the deactivation codes4181 quotidiennement adv daily, every day
 * les gangs font la manchette presque quotidiennement -- gangs make the headlines almost  4182 architecture nf architecture
 * l'architecture doit beaucoup aux Arabes -- architecture owes much to the Arabs4183 éventualité nf eventuality, possibility
@@ -4061,8 +3956,7 @@
 * il y a du poulet dans le frigo -- there's some chicken in the fridge4223 pêcher nm,v to fish, go fishing; peach tree
 * on pêchera des tonnes de crevettes4224 brigade nf team, squad, brigade
 * une brigade de policiers a réussi à rattraper les chiens -- the squad of policemen succeeded in  4225 trembler v to shiver, tremble, shake, flicker
-* il sourit toujours, ses joues tremblent -- he always smiles, cheeks trembling4226 reçu nm receipt, accepted
-* il ne voulait pas me faire un reçu -- he didn't want to give me a receipt4227 civiliser v to civilze
+* il sourit toujours, ses joues tremblent -- he always smiles, cheeks trembling4227 civiliser v to civilze
 * ce sont des nations civilisées -- these are civilized nations4228 relance nf boost, reminder, recovery
 * la relance économique commence à se faire sentir -- the economic recovery is starting to be  4229 dose nf dose, amount
 * vous avez mal calculé la dose -- you miscalculated the dose4230 loyer nm rent
@@ -4073,8 +3967,7 @@
 * vos cartes sont de type standard4235 taxi nm taxi
 * je vais rentrer en taxi -- I'm going to take a taxi home4236 limitation nf limitation, restriction, limit
 * il y a des limitations d'âge -- there are age limitations4237 irréversible adj(f) irreversible
-* beaucoup de processus sont probablement déjà irréversibles -- many processes are probably  4238 fatal adj fatal, deadly, fateful
-* une maladie du foie fatale -- a fatal liver disease4239 furieux nadj(pl) furious, raging, violent
+* beaucoup de processus sont probablement déjà irréversibles -- many processes are probably  4239 furieux nadj(pl) furious, raging, violent
 * il est furieux contre moi -- he's furious with me4240 verbal adj verbal
 * on ne parle que de beauté verbale -- we only speak of verbal beauty4241 contacter v to contact, get in touch with
 * comment puis-je vous contacter4242 commissariat nm police station
@@ -4118,8 +4011,7 @@
 * tout ça est chiffré à chaque fois par les ministères -- all of this is quantified each time by the  4281 catastrophique adj(f) catastrophic, disastrous
 * on a hérité d'une situation catastrophique -- we inherited a catastrophic situation4282 magistrat nm magistrate, judge
 * son père était un magistrat de la cour d'assises -- his father was a judge in the assize court4283 extrait nm extract, excerpt
-* ce qui suit est un extrait du rapport -- what follows is an excerpt from the report4284 amant nm lover
-* elle était folle de son amant -- she was crazy about her lover4285 farce nf joke, prank, hoax, farce
+* ce qui suit est un extrait du rapport -- what follows is an excerpt from the report4285 farce nf joke, prank, hoax, farce
 * c'est une vraie farce et c'est honteux -- it's a real hoax and it's shameful4286 compétitivité nf competitiveness
 * nous avons décidé d'accroître la compétitivité et l'efficacité de nos industries -- we decided to  4287 enthousiaste adj(f) enthusiastic
 * ils m'ont accordé un appui enthousiaste -- they gave me enthusiastic support4288 quarantaine nf about forty
@@ -4129,8 +4021,7 @@
 * on allait le tuer pour avoir mordu un garde -- it was going to be killed for having bitten a  4293 partiellement adv partly
 * le ciel était partiellement dégagé -- the skies were partly cloudy4294 radioactif adj radioactive
 * les particules radioactives tombent avec les gouttes de pluie -- radioactive particles fall with  4295 passe nm,nf pass, channel
-* puis-je utiliser mon passe4296 indépendamment adv independently, irrespective of, regardless of
-* chaque paquet est traité indépendamment -- each package is processed individually4297 location nf renting
+* puis-je utiliser mon passe4297 location nf renting
 * c'est un meublé mis en location pour quelques mois -- it's a furnished apartment being rented  4298 naïf nadj naïve, innocent
 * elle reste extrêmement naïve sur le sujet -- she remains extremely naïve on the topic4299 retraité nadj retired
 * les retraités ne peuvent dépenser l'argent -- retired people can't spend money4300 innocence nf innocence
@@ -4162,8 +4053,7 @@
 * il faut assurer une cohérence entre les objectifs et les actions -- there must be consistency  4328 souris nf(pl) mouse
 * le chat mange la souris -- the cat eats the mouse4329 bombarder v to bomb
 * l'aviation gouvernementale bombarde deux villes contrôlées par les rebelles -- the government  4330 éveiller v to arouse, stimulate, awaken
-* la nuit, je restais éveillée dans mon lit -- during the night I remained awake in my bed4332 croyant nadj believer
-* que le croyant vive sa foi -- may the believer live his faith4333 réalisateur nadj director
+* la nuit, je restais éveillée dans mon lit -- during the night I remained awake in my bed4333 réalisateur nadj director
 * quand le réalisateur dit 4334 brutalement adv brutally
 * elle referma brutalement la porte -- she slammed the door shut4335 lourdement adv heavily
 * il m'examina lourdement de la tête aux pieds -- he gave me a thorough inspection from head to  4336 tente nf tent
@@ -4266,8 +4156,7 @@
 * pardonnez-moi mon père car j'ai péché -- forgive me Father, for I have sinned4438 gendarme nm,nf policeman
 * les gendarmes poursuivent leurs investigations -- the policemen are pursuing their  4439 sécheresse nf dryness, drought
 * après dix années de sécheresse, il pleut au Sahel -- after ten years, of drought, it's raining in  4440 score nm score
-* c'est vrai que les bons scores me font plaisir -- it's true that I enjoy good scores4441 goûter nm,v to taste, snack
-* je goûtai à la confiture -- I tasted the jam4442 renier v to disown, repudiate, go back on
+* c'est vrai que les bons scores me font plaisir -- it's true that I enjoy good scores4442 renier v to disown, repudiate, go back on
 * tu renies ton passé, notre amour, TA fille -- you're disowning your past, our love, YOUR  4443 juridiction nf jurisdiction, court of law
 * la haute juridiction a mis sa décision en délibéré -- the upper jurisdiction put its decision to  4444 prostitution nf prostitution
 * on légalise la prostitution -- we're legalizing prostitution4445 fiche nf card, sheet, slip, form
@@ -4277,8 +4166,7 @@
 * son pantalon entravait la liberté de ses mouvements -- his trousers hampered his freedom of  4450 embargo nm embargo
 * l'OTAN se préparent à décréter un embargo pétrolier -- NATO is preparing to announce an oil  4451 interdit nadj prohibited, banned
 * l'entrée était strictement interdite -- entry was strictly forbidden4452 brouillard nm fog, mist, haze
-* peu à peu le brouillard se fait moins épais -- the fog gradually lifted4453 syrien nadj Syrian
-* le président syrien avait confirmé cet entretien -- the Syrian president confirmed this interview4454 jet nm jet, throw, spray, nozzle
+* peu à peu le brouillard se fait moins épais -- the fog gradually lifted4454 jet nm jet, throw, spray, nozzle
 * il traversait cet etat dans un jet privé -- he crossed this state in a private jet4455 trêve nf truce
 * nous rejetons toute idée de trêve ou de négociation politique -- we reject any idea of a truce or  4456 occupant nadj occupant, occupier, occupying
 * le parlement négocie avec les occupants -- the parliament is negotiating with the occupants4457 ponctuel adj punctual
@@ -4368,8 +4256,7 @@
 * ils découvraient un corridor souterrain -- they discovered an underground corridor4545 merveille nf marvel, wonder
 * je suis une merveille de la nature -- I'm a wonder of nature4546 restituer v to return, restore, refund
 * en cas de rupture, il ne restituera rien -- in case of breach of contract, he will not refund  4547 démon nm demon, fiend
-* les démons aussi ont la foi -- devils have faith too4548 balancer v to swing, sway
-* cela plie terriblement et se balance à la moindre brise -- this folds terribly and sways with the  4549 disponibilité nf availability
+* les démons aussi ont la foi -- devils have faith too4549 disponibilité nf availability
 * les objectifs de disponibilité sont des facteurs importants -- goals for availability are important  4550 infiniment adv infinitely
 * votre idée me fait infiniment plaisir -- your idea pleases me infinitely4552 récepteur nm receiver, receiving
 * il avait négligé de décrocher le récepteur -- he had forgotten to lift up the receiver4553 glissement nm sliding, slipping, skidding
@@ -4393,8 +4280,7 @@
 * je fais du ski -- I ski4572 douanier nadj customs officer
 * il n'y avait pas de contrôle douanier -- there was no customs check4573 syndrome nm syndrome
 * je souffre 4574 météo nf weather forecast
-* on nous annonçait la météo du lendemain -- the next day's weather forecast was given to us4575 borner v to limit, confine
-* nous nous bornons à faire notre travail -- we confine ourselves to doing our work4576 triompher v to triumph, beat
+* on nous annonçait la météo du lendemain -- the next day's weather forecast was given to us4576 triompher v to triumph, beat
 * la démocratie finit toujours par triompher -- democracy always triumphs4577 concrétiser v to materialise
 * j'espère vraiment concrétiser ce rêve un jour4578 soumission nf submission
 * le foulard symbolise la soumission à Dieu -- the head scarf symbolizes submission to God4579 continuellement adv continually, continuously
@@ -4404,8 +4290,7 @@
 * les sorcières aussi tombent malades4583 consigne nf deposit, orders, detention
 * il rappelle quelques consignes générales -- he recalls some general orders4584 harmonie nf harmony
 * nous devons travailler ensemble en parfaite harmonie -- we must work together in perfect  4586 pleuvoir v to rain
-* il trouve qu'il pleut tous les jours -- he finds that it rains every day4587 déplaire v to displease, be unhappy
-* tout ce qui est superflu déplaît à Dieu et à la nature -- anything superfluous displeases God  4588 innombrable adj(f) innumerable, countless
+* il trouve qu'il pleut tous les jours -- he finds that it rains every day4588 innombrable adj(f) innumerable, countless
 * son existence résulte d'innombrables morts -- its existence stems from an untold number of  4589 félicitation nf congratulation
 * nous recevons de nombreuses lettres de félicitations -- we receive many letters of  4590 inédit nadj unpublished; original, new
 * dix-sept films inédits seront en compétition -- seventeen unedited films will be competing4591 lance nf lance
@@ -4438,8 +4323,7 @@
 * cela équivaut à une taxe sur les malades -- this amounts to a tax on sick people4620 différencier v to differentiate
 * je sais différencier un compliment d'une flatterie -- I know the difference between a  4621 éventail nm fan, range
 * le gouvernement finance un éventail d'initiatives de recherche -- the government is financing a  4622 solde nm,nf balance; pay; sale
-* tout est en solde dans Paris -- everything's on sale in Paris4623 gâcher v to waste, spoil
-* je ne voulais pas gâcher votre fête -- I didn't want to ruin your party4624 régiment nm regiment
+* tout est en solde dans Paris -- everything's on sale in Paris4624 régiment nm regiment
 * c'est le meilleur soldat du régiment -- he's the best soldier in the regiment4625 chiite nadj(f) Shiite
 * la conférence devait réunir des leaders chiites, sunnites et kurdes -- the conference was meant  4626 bouleversement nm upheaval
 * le bouleversement est profond autour de nous -- profound upheaval is all around us4627 relater v to relate, recount
@@ -4449,8 +4333,7 @@
 * l'instituteur feuilletait un manuel de sociologie -- the teacher paged through a sociology  4631 rayer v to scratch, streak, stripe; to erase, strike out
 * tu portes une chemise rayée et une cravate rayée -- you're wearing a striped shirt and a striped  4632 concrètement adv in concrete terms
 * je vous demande concrètement si vous allez prendre des mesures sérieuses -- I ask you  4633 coulisse nf backstage, wings, behind the scenes
-* car, en coulisse, on négocia -- for, behind the scenes, there were negotiations4634 enchaîner v to chain up, connect, string together
-* tout semble s'enchaîner dans cette sinistre marche des événements -- everything seemed to  4635 ratification nf ratification
+* car, en coulisse, on négocia -- for, behind the scenes, there were negotiations4635 ratification nf ratification
 * le processus de ratification n'est pas mort -- the ratification process is not dead4636 emplacement nm site, location
 * les emplacements de camping sont séparés -- the camping sites are separated4637 copier v to copy, reproduce
 * j'ai copié l'article -- I copied the article4638 inculper v to charge
@@ -4503,8 +4386,7 @@
 * elle a sectionné le cordon avec ses dents -- she cut the cord with her teeth4689 lasser v to tire, weary, grow weary
 * je ne veux pas lasser le public -- I don't want to make the public weary4690 influer v to influence, have an influence on
 * chaque vie, influe sur les autres -- each life influences others4691 présentement adv at present, presently
-* nous étudions ce besoin présentement -- we're currently studying this need4693 stopper v to stop, halt
-* vous pourriez me stopper avec un seul mot -- you could stop me with one single word4694 kurde nadj(f) Kurd, Kurdish
+* nous étudions ce besoin présentement -- we're currently studying this need4694 kurde nadj(f) Kurd, Kurdish
 * la langue kurde est interdite à l'école -- the Kurdish language is forbidden at school4695 amusant nadj funny, amusing, entertaining
 * j'avais trouvé une phrase amusante -- I had found a funny phrase4696 tremblement nm shiver, trembling, shaking
 * il y avait dans sa voix un tremblement -- there was trembling in her voice4697 rail nm rail, track
@@ -4552,8 +4434,7 @@
 * mais il est enchanté de me voir, hein4739 singe nm monkey
 * ils imitent le cri des singes -- they're imitating the monkeys' scream4740 superficiel adj superficial, shallow
 * t'es un mec superficiel, un vrai nul -- you're a shallow guy, a real nobody4741 rigide adj(f) rigid, stiff
-* il y a de rigides paramètres en place -- there are fixed parameters in place4742 démographique adj(f) demographic
-* nous vivons en une époque d'évolution démographique -- we live in an era of demographic  4743 fourniture nf supply, provision
+* il y a de rigides paramètres en place -- there are fixed parameters in place4743 fourniture nf supply, provision
 * l'accord prévoit la fourniture de 3 millions de tonnes de pétrole -- the agreement anticipates a  4744 taxer v to tax
 * il est injuste de le taxer de caprice -- it's injust to tax indiscriminately4745 milice nf militia
 * les milices sont responsables de crimes contre l'humanité -- the militias are responsible for  4746 foire nf fair
@@ -4598,8 +4479,7 @@
 * je lui ai offert une boule à neige -- I offered her a snowball4790 médiation nf mediation, arbitration
 * les tentatives américaines de médiation ont continué -- American attempts at negotiation  4791 réprimer v to suppress, repress
 * vous réprimez ce que vous ressentez -- you're repressing what you feel4792 hall nm foyer, lobby
-* je l'ai rencontré dans le hall d'un immeuble -- I met him in the foyer of the building4793 visuel adj visual
-* mais garde le contact visuel -- but keep visual contact4794 semblant nm semblance, pretence
+* je l'ai rencontré dans le hall d'un immeuble -- I met him in the foyer of the building4794 semblant nm semblance, pretence
 * faites semblant d'être désespérée -- pretend to be desperate4795 jadis adv formerly, long ago
 * jadis, nous étions des esclaves -- long ago, we were slaves4796 rémunérer v to remunerate, pay
 * il était rémunéré par une excellente nourriture -- he was paid with excellent food4797 fasciner v to fascinate
@@ -4715,8 +4595,7 @@
 * il faut capturer ce type à tout prix -- this guy must be caught at any price4922 compliment nm compliment
 * merci pour le compliment -- thanks for the compliment4923 allouer v to allocate
 * cinq minutes sont allouées pour deux questions -- five minutes are allocated for two questions4924 scandaliser v to shock, scandalize
-* chaque Américain devrait aussi être scandalisé -- every American should also be scandalized4925 cassette nf cassette
-* la cassette vidéo a été retrouvée -- the video cassette was found4926 résident nm foreign national, foreign resident
+* chaque Américain devrait aussi être scandalisé -- every American should also be scandalized4926 résident nm foreign national, foreign resident
 * j'ai rencontré presque tous les résidents -- I met almost all the residents4927 empresser v to bustle about, hasten to do
 * ils se sont empressés d'obéir -- they hastened to obey4928 inonder v to flood
 * il faut inonder les jeunes de messages préventifs -- youth must be flooded with preventive  4929 réglementer v to regulate, control

@@ -1,5 +1,9 @@
 '''
     Get Words Databases
+    cleaning PDF with words extracted
+    1. ([^ \w.]{0,1}\d{1,4} [\wa-zA-Z\u00C0-\u017F,;' ]+ [\wa-zA-Z\u00C0-\u017F,; \(\)]+) -> \n$1
+    2. Delete pattern (\d+ \| \d+)
+    3. (\* [a-zA-Z\u00C0-\u017F ,'-\.\?\d!:;%]+) in progress page 2562 found 4989 of 4904?
     clean_text = re.sub(r"\n\d+ \| \d+$", "FREIRE", text)
     \* [a-zA-Z\u00C0-\u017F, '-.?!\d:;%»«çœ]+\n
     \* [a-zA-Z\u00C0-\u017F ,"'-.?!\d:;%»«çœ$/]+\n

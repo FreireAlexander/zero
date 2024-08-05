@@ -49,7 +49,8 @@ range count | raw frequency total, indication of major register variationr
 * je suis retournée en Espagne en septembre  --  I returned to Spain in September
 94 | 2429529
 8 avoir nm,v to have
-* on était six donc tu peux pas avoir une conversation  --  there were six of us so you can't have a conversation
+* on était six donc tu peux pas avoir une conversation  --  there were six of us so you can't have  
+a conversation
 89 | 4050208
 9 que adv,conj,pro that, which, who, whom
 * c'est un soldat. mais que fait-il ici?  --  it's a soldier. but what's he doing here?
@@ -109,10 +110,10 @@ moule 6520 F mussel
  
  Page 10
 17 se pro oneself, himself, herself, itself, themselves
-* avec ce traité, le Japon se rapproche des Etats-Unis -- with this treaty, Japan brings itself closer to the U.S.
+* avec ce traité, le Japon se rapproche des Etats-Unis -- with this treaty, Japan brings itself  
+closer to the U.S.
 88 | 1447078
-18 pas adv,nm(pl) not, n't; footstep
-* non, ne touchez pas! -- no, don't touch it!
+18 pas adv,nm(pl) not, n't; footstep* non, ne touchez pas! -- no, don't touch it!
 83 | 1617468
 19 plus adv more, no more
 * il est considérablement plus jeune que moi -- he's considerably younger than I am

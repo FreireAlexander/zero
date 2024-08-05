@@ -923,7 +923,8 @@ is faster than projected
 70 | 9966
 7263 histoire nf history, story
 * on a raconté d'amusantes histoires -- we told funny stories
-80 | 61938264 haut adv,nadj top, high
+80 | 61938
+264 haut adv,nadj top, high
 * voilà qui vous lancera dans la haute société -- that's who will launch you into high society
 84 | 4897
 8265 ensuite adv next
