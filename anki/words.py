@@ -3,12 +3,10 @@
     cleaning PDF with words extracted
     1. ([^ \w.]{0,1}\d{1,4} [\wa-zA-Z\u00C0-\u017F,;' ]+ [\wa-zA-Z\u00C0-\u017F,; \(\)]+) -> \n$1
     2. Delete pattern (\d+ \| \d+)
-    3. (\* [a-zA-Z\u00C0-\u017F ,'-\.\?\d!:;%]+) in progress page 2562 found 4989 of 4904?
-    clean_text = re.sub(r"\n\d+ \| \d+$", "FREIRE", text)
-    \* [a-zA-Z\u00C0-\u017F, '-.?!\d:;%»«çœ]+\n
-    \* [a-zA-Z\u00C0-\u017F ,"'-.?!\d:;%»«çœ$/]+\n
-    (\d+ \| \d+)
-    ^[^*\s\d\w\u00C0-\u017F].*
+    3. (\* [a-zA-Z\u00C0-\u017F ,'-\.\?\d!:;%«»]+) in progress page 2562 found 4989 of 4904?
+    3.1. (\* [a-zA-Z\u00C0-\u017F ,'-\.\?\d!:;%«»]+\n?[a-zA-Z\u00C0-\u017F ,'-\.\?\d!:;%«»]+)
+    
+    wildcard for lookin up: ^[^\d\W]
 '''
 from ast import pattern
 from PyPDF2 import PdfReader
