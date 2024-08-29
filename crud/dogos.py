@@ -6,12 +6,14 @@ class Dog():
     def __init__(self, name) -> None:
         self.__name = name
         self.__UUID = uuid4()
+        self.age = 0
 
 
     def __str__(self) -> str:
         json = {
             'id': self.UUID,
-            'name': self.name
+            'name': self.name,
+            'age': self.age
         }
 
         return str(json)
