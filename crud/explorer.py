@@ -4,6 +4,9 @@ import sys
 
 
 def myGetch():
+    """
+    explorer py
+    """
     prompt = "Enter key: "
     fd = sys.stdin.fileno()
 
