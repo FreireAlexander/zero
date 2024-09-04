@@ -34,7 +34,7 @@ def updateDogname(file, oldName, newName):
     pattern = f",{oldName},"
     newpattern = r",{newName},".replace('{newName}',newName)
     print(pattern)
-    pattern = re.compile(pattern)
+    pattern = re.compile(re.escape(pattern), re.DOTALL | re.MULTILINE)
     print(pattern)
     with open(file, 'r+') as f:
         content = f.read()
